@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dong-song-tinh-yeu_20415.html",
+    "title" : "Dòng Sông Tình Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Thu Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 12533,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_e692a952927063e1972f0607eda1b269.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_e692a952927063e1972f0607eda1b269.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e692a952927063e1972f0607eda1b269_e941f9641c1884c4e1c910342b528c2f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6176,
+    "title" : "Tập 1 │ Tác giả: Hoàng Thu Dung │ Thu Yên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e692a952927063e1972f0607eda1b269_ee498cfda0c0f11a4b781dfbd2dcd932_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e692a952927063e1972f0607eda1b269_ee498cfda0c0f11a4b781dfbd2dcd932_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e692a952927063e1972f0607eda1b269_ee498cfda0c0f11a4b781dfbd2dcd932_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tập 2 (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e692a952927063e1972f0607eda1b269_e941f9641c1884c4e1c910342b528c2f.mp3",
+    "title" : "Tập 1 │ Tác giả: Hoàng Thu Dung │ Thu Yên",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e692a952927063e1972f0607eda1b269_ee498cfda0c0f11a4b781dfbd2dcd932_1.mp3",
+    "title" : "Tập 2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e692a952927063e1972f0607eda1b269_ee498cfda0c0f11a4b781dfbd2dcd932_2.mp3",
+    "title" : "Tập 2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e692a952927063e1972f0607eda1b269_ee498cfda0c0f11a4b781dfbd2dcd932_3.mp3",
+    "title" : "Tập 2 (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
