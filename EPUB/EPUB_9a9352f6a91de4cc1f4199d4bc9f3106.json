@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cau-be-hoc-viec-va-thay-tru-ta-tap-6_20929.html",
+    "title" : "Cậu Bé Học Việc Và Thầy Trừ Tà Tập 6",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Joseph Delaney",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-07",
+    "duration" : 24198,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_9a9352f6a91de4cc1f4199d4bc9f3106.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_9a9352f6a91de4cc1f4199d4bc9f3106.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_25556e6fea26d5775e22b3a0c48eaef0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 1 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_25556e6fea26d5775e22b3a0c48eaef0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 1 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_25556e6fea26d5775e22b3a0c48eaef0_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 1 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_669e326931616aed11eface72c7ea4d4_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 2 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_669e326931616aed11eface72c7ea4d4_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 2 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_12db9e74af602cee1f3321f4de4ffb15_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 3 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_12db9e74af602cee1f3321f4de4ffb15_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 3 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_12db9e74af602cee1f3321f4de4ffb15_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 3 (192kbit AAC) (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_fbe4323c9f86558cc6896143f234522a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 4 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_fbe4323c9f86558cc6896143f234522a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 4 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_3a34deca04f4aedbd6435af3c7b11395_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 5 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_3a34deca04f4aedbd6435af3c7b11395_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 5 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_fdb5bb3cceafbeb4772369c1611bf8ce_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 6 (192kbit AAC) (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_fdb5bb3cceafbeb4772369c1611bf8ce_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 6 (192kbit AAC) (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_25556e6fea26d5775e22b3a0c48eaef0_1.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 1 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_25556e6fea26d5775e22b3a0c48eaef0_2.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 1 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_25556e6fea26d5775e22b3a0c48eaef0_3.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 1 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_669e326931616aed11eface72c7ea4d4_1.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 2 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_669e326931616aed11eface72c7ea4d4_2.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 2 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_12db9e74af602cee1f3321f4de4ffb15_1.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 3 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_12db9e74af602cee1f3321f4de4ffb15_2.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 3 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_12db9e74af602cee1f3321f4de4ffb15_3.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 3 (192kbit AAC) (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_fbe4323c9f86558cc6896143f234522a_1.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 4 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_fbe4323c9f86558cc6896143f234522a_2.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 4 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_3a34deca04f4aedbd6435af3c7b11395_1.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 5 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_3a34deca04f4aedbd6435af3c7b11395_2.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 5 (192kbit AAC) (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_fdb5bb3cceafbeb4772369c1611bf8ce_1.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 6 (192kbit AAC) (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_9a9352f6a91de4cc1f4199d4bc9f3106_fdb5bb3cceafbeb4772369c1611bf8ce_2.mp3",
+    "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 6 (192kbit AAC) (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
