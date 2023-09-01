@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_da0d844b0902522844337c405c19a3e7.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_da0d844b0902522844337c405c19a3e7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_da0d844b0902522844337c405c19a3e7.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_da0d844b0902522844337c405c19a3e7.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_da0d844b0902522844337c405c19a3e7_dae96583fac290adecef7f448f902dd3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_da0d844b0902522844337c405c19a3e7_dae96583fac290adecef7f448f902dd3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2026,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_da0d844b0902522844337c405c19a3e7_dae96583fac290adecef7f448f902dd3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_da0d844b0902522844337c405c19a3e7_dae96583fac290adecef7f448f902dd3.mp3",
     "title" : "dau-do-1",
     "children" : [ ]
   } ],

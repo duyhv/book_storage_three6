@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_2a281256f047975075ecef736cd7ea3d.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_2a281256f047975075ecef736cd7ea3d.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_2a281256f047975075ecef736cd7ea3d.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_2a281256f047975075ecef736cd7ea3d.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_1.mp3",
     "title" : "Hương Rừng Cà Mau (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_2.mp3",
     "title" : "Hương Rừng Cà Mau (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_2a281256f047975075ecef736cd7ea3d_67d1fcd80fa72e44e20ad1cd26d67556_3.mp3",
     "title" : "Hương Rừng Cà Mau (3)",
     "children" : [ ]
   } ],

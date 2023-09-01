@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_2fa25a9726dfa874fea041363f8d7828.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_2fa25a9726dfa874fea041363f8d7828.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_2fa25a9726dfa874fea041363f8d7828.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_2fa25a9726dfa874fea041363f8d7828.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2fa25a9726dfa874fea041363f8d7828_882323976ab6c9204c98a1015cd418fd.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_2fa25a9726dfa874fea041363f8d7828_882323976ab6c9204c98a1015cd418fd.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3244,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2fa25a9726dfa874fea041363f8d7828_882323976ab6c9204c98a1015cd418fd.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_2fa25a9726dfa874fea041363f8d7828_882323976ab6c9204c98a1015cd418fd.mp3",
     "title" : "tim-minh",
     "children" : [ ]
   } ],

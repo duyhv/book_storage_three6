@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_990fc08015ba97b76c6f60b84f893160.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_990fc08015ba97b76c6f60b84f893160.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_990fc08015ba97b76c6f60b84f893160.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_990fc08015ba97b76c6f60b84f893160.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_a590539471986f589356420e931a7f97_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_a590539471986f589356420e931a7f97_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_a590539471986f589356420e931a7f97_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_a590539471986f589356420e931a7f97_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_dc12c043e7c81efa492135c23bc4ce4f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_dc12c043e7c81efa492135c23bc4ce4f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2552,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_49ba952629dab51d75da647b547d5cb1_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_49ba952629dab51d75da647b547d5cb1_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_49ba952629dab51d75da647b547d5cb1_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_49ba952629dab51d75da647b547d5cb1_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_a590539471986f589356420e931a7f97_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_a590539471986f589356420e931a7f97_1.mp3",
     "title" : "THOI THO AU CUA CAC TONG THONG MY 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_a590539471986f589356420e931a7f97_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_a590539471986f589356420e931a7f97_2.mp3",
     "title" : "THOI THO AU CUA CAC TONG THONG MY 01 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_dc12c043e7c81efa492135c23bc4ce4f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_dc12c043e7c81efa492135c23bc4ce4f.mp3",
     "title" : "THOI THO AU CUA CAC TONG THONG MY 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_49ba952629dab51d75da647b547d5cb1_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_49ba952629dab51d75da647b547d5cb1_1.mp3",
     "title" : "THOI THO AU CUA CAC TONG THONG MY 03 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_49ba952629dab51d75da647b547d5cb1_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_990fc08015ba97b76c6f60b84f893160_49ba952629dab51d75da647b547d5cb1_2.mp3",
     "title" : "THOI THO AU CUA CAC TONG THONG MY 03 (2)",
     "children" : [ ]
   } ],
