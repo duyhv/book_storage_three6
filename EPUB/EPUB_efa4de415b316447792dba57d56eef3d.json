@@ -1,0 +1,425 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kinh-thanh_19644.html",
+    "title" : "Kinh Thánh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "N/A",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 280728,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_efa4de415b316447792dba57d56eef3d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_efa4de415b316447792dba57d56eef3d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20CH%C3%82M%20NG%C3%94N%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9689,
+    "title" : "SÁCH CHÂM NGÔN | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20C%C3%81C%20VUA%20QUY%E1%BB%80N%20TH%E1%BB%A8%202%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9769,
+    "title" : "SÁCH CÁC VUA QUYỀN THỨ 2 | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20C%C3%81C%20VUA%20QUY%E1%BB%82N%20TH%E1%BB%A8%20NH%E1%BA%A4T%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%AF%E1%BB%9CN%20XANH%20AUDIO%20BOOK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10909,
+    "title" : "SÁCH CÁC VUA QUYỂN THỨ NHẤT | KINH THÁNH TRỌN BỘ | VƯỜN XANH AUDIO BOOK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20C%C3%94NG%20V%E1%BB%A4%20T%C3%94NG%20%C4%90%E1%BB%92%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10604,
+    "title" : "SÁCH CÔNG VỤ TÔNG ĐỒ | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20DI%E1%BB%84M%20CA%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2309,
+    "title" : "SÁCH DIỄM CA | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20D%C3%82N%20S%E1%BB%90%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14009,
+    "title" : "SÁCH DÂN SỐ | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20GI%C3%93P%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9218,
+    "title" : "SÁCH GIÓP | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20GI%C3%94-SU%C3%8A%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8311,
+    "title" : "SÁCH GIÔ-SUÊ | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20GI%E1%BA%A2NG%20VI%C3%8AN%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2832,
+    "title" : "SÁCH GIẢNG VIÊN | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20HU%E1%BA%A4N%20CA%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15103,
+    "title" : "SÁCH HUẤN CA | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20KH%C3%94N%20NGOAN%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6821,
+    "title" : "SÁCH KHÔN NGOAN | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20L%C3%8A-VI%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9260,
+    "title" : "SÁCH LÊ-VI | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20NG%C3%94N%20S%E1%BB%A8%20AI-CA%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1542,
+    "title" : "SÁCH NGÔN SỨ AI-CA | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20NG%C3%94N%20S%E1%BB%A8%20ISAIA%20-%20PH%E1%BA%A6N%201%20%20V%C6%AF%E1%BB%9CN%20XANH%20AUDIOBOOK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8455,
+    "title" : "SÁCH NGÔN SỨ ISAIA - PHẦN 1 | VƯỜN XANH AUDIOBOOK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20NG%C3%94N%20S%E1%BB%A8%20ISAIA%20PH%E1%BA%A6N%202%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%AF%E1%BB%9CN%20XANH%20AUDIO%20BOOK.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9735,
+    "title" : "SÁCH NGÔN SỨ ISAIA PHẦN 2 | KINH THÁNH TRỌN BỘ | VƯỜN XANH AUDIO BOOK",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20R%C3%9AT%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1148,
+    "title" : "SÁCH RÚT | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20SAMUEL%201%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10929,
+    "title" : "SÁCH SAMUEL 1 | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20SAMUEL%202%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9378,
+    "title" : "SÁCH SAMUEL 2 | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20S%E1%BB%AC%20BI%C3%8AN%20NI%C3%8AN%20QUY%E1%BB%82N%20TH%E1%BB%A8%20NH%E1%BA%A4T%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9878,
+    "title" : "SÁCH SỬ BIÊN NIÊN QUYỂN THỨ NHẤT | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20TH%E1%BB%A6%20L%C3%83NH%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8158,
+    "title" : "SÁCH THỦ LÃNH | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20XU%E1%BA%A4T%20H%C3%80NH%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14471,
+    "title" : "SÁCH XUẤT HÀNH | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20%C4%90%E1%BB%86%20NH%E1%BB%8A%20LU%E1%BA%ACT%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12135,
+    "title" : "SÁCH ĐỆ NHỊ LUẬT | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%E1%BB%90NG%20THEO%20%C4%90%C3%9ANG%20M%E1%BB%A4C%20%C4%90%C3%8DCH%20-%20RICK%20WARREN%20%20Ng%C3%A0y%201%20-%207%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7115,
+    "title" : "RICK WARREN | Ngày 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/TIN%20M%E1%BB%AANG%20THEO%20TH%C3%81NH%20GIO-AN%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9210,
+    "title" : "TIN MỪNG THEO THÁNH GIO-AN | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/TIN%20M%E1%BB%AANG%20THEO%20TH%C3%81NH%20LU-CA%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12491,
+    "title" : "TIN MỪNG THEO THÁNH LU-CA | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/TIN%20M%E1%BB%AANG%20THEO%20TH%C3%81NH%20M%C3%81C-C%C3%94%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7576,
+    "title" : "TIN MỪNG THEO THÁNH MÁC-CÔ | KINH THÁNH TRỌN BỘ |Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/TIN%20M%E1%BB%AANG%20THEO%20TH%C3%81NH%20M%C3%81T-TH%C3%8AU%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12167,
+    "title" : "TIN MỪNG THEO THÁNH MÁT-THÊU | KINH THÁNH TRỌN BỘ |Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/ngon-su.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9203,
+    "title" : "SÁCH NGÔN SỨ GIÊ-RÊ-MI-A | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/song-theo-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7696,
+    "title" : "RICK WARREN | Ngày 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/song-theo-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7450,
+    "title" : "RICK WARREN | Ngày 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/song-theo-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7509,
+    "title" : "RICK WARREN | NGày 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/song-theo-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5648,
+    "title" : "RICK WARREN | NGÀY 36",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20CH%C3%82M%20NG%C3%94N%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio.mp3",
+    "title" : "SÁCH CHÂM NGÔN | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20C%C3%81C%20VUA%20QUY%E1%BB%80N%20TH%E1%BB%A8%202%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH CÁC VUA QUYỀN THỨ 2 | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20C%C3%81C%20VUA%20QUY%E1%BB%82N%20TH%E1%BB%A8%20NH%E1%BA%A4T%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%AF%E1%BB%9CN%20XANH%20AUDIO%20BOOK.mp3",
+    "title" : "SÁCH CÁC VUA QUYỂN THỨ NHẤT | KINH THÁNH TRỌN BỘ | VƯỜN XANH AUDIO BOOK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20C%C3%94NG%20V%E1%BB%A4%20T%C3%94NG%20%C4%90%E1%BB%92%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH CÔNG VỤ TÔNG ĐỒ | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20DI%E1%BB%84M%20CA%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH DIỄM CA | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20D%C3%82N%20S%E1%BB%90%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH DÂN SỐ | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20GI%C3%93P%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH GIÓP | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20GI%C3%94-SU%C3%8A%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH GIÔ-SUÊ | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20GI%E1%BA%A2NG%20VI%C3%8AN%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH GIẢNG VIÊN | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20HU%E1%BA%A4N%20CA%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH HUẤN CA | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20KH%C3%94N%20NGOAN%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH KHÔN NGOAN | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20L%C3%8A-VI%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH LÊ-VI | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20NG%C3%94N%20S%E1%BB%A8%20AI-CA%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH NGÔN SỨ AI-CA | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20NG%C3%94N%20S%E1%BB%A8%20ISAIA%20-%20PH%E1%BA%A6N%201%20%20V%C6%AF%E1%BB%9CN%20XANH%20AUDIOBOOK.mp3",
+    "title" : "SÁCH NGÔN SỨ ISAIA - PHẦN 1 | VƯỜN XANH AUDIOBOOK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20NG%C3%94N%20S%E1%BB%A8%20ISAIA%20PH%E1%BA%A6N%202%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%AF%E1%BB%9CN%20XANH%20AUDIO%20BOOK.mp3",
+    "title" : "SÁCH NGÔN SỨ ISAIA PHẦN 2 | KINH THÁNH TRỌN BỘ | VƯỜN XANH AUDIO BOOK",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20R%C3%9AT%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH RÚT | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20SAMUEL%201%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH SAMUEL 1 | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20SAMUEL%202%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH SAMUEL 2 | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20S%E1%BB%AC%20BI%C3%8AN%20NI%C3%8AN%20QUY%E1%BB%82N%20TH%E1%BB%A8%20NH%E1%BA%A4T%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH SỬ BIÊN NIÊN QUYỂN THỨ NHẤT | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20TH%E1%BB%A6%20L%C3%83NH%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH THỦ LÃNH | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20XU%E1%BA%A4T%20H%C3%80NH%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH XUẤT HÀNH | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%C3%81CH%20%C4%90%E1%BB%86%20NH%E1%BB%8A%20LU%E1%BA%ACT%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "SÁCH ĐỆ NHỊ LUẬT | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/S%E1%BB%90NG%20THEO%20%C4%90%C3%9ANG%20M%E1%BB%A4C%20%C4%90%C3%8DCH%20-%20RICK%20WARREN%20%20Ng%C3%A0y%201%20-%207%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "RICK WARREN | Ngày 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/TIN%20M%E1%BB%AANG%20THEO%20TH%C3%81NH%20GIO-AN%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "TIN MỪNG THEO THÁNH GIO-AN | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/TIN%20M%E1%BB%AANG%20THEO%20TH%C3%81NH%20LU-CA%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "TIN MỪNG THEO THÁNH LU-CA | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/TIN%20M%E1%BB%AANG%20THEO%20TH%C3%81NH%20M%C3%81C-C%C3%94%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "TIN MỪNG THEO THÁNH MÁC-CÔ | KINH THÁNH TRỌN BỘ |Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/TIN%20M%E1%BB%AANG%20THEO%20TH%C3%81NH%20M%C3%81T-TH%C3%8AU%20%20KINH%20TH%C3%81NH%20TR%E1%BB%8CN%20B%E1%BB%98%20V%C6%B0%E1%BB%9Dn%20Xanh%20Audio%20Book.mp3",
+    "title" : "TIN MỪNG THEO THÁNH MÁT-THÊU | KINH THÁNH TRỌN BỘ |Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/ngon-su.mp3",
+    "title" : "SÁCH NGÔN SỨ GIÊ-RÊ-MI-A | KINH THÁNH TRỌN BỘ | Vườn Xanh Audio Book",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/song-theo-1.mp3",
+    "title" : "RICK WARREN | Ngày 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/song-theo-2.mp3",
+    "title" : "RICK WARREN | Ngày 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/song-theo-3.mp3",
+    "title" : "RICK WARREN | NGày 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sa-ch-hua-n-ca-kinh-tha-nh-tro-n-bo-vuon-xanh-audio-book/song-theo-4.mp3",
+    "title" : "RICK WARREN | NGÀY 36",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
