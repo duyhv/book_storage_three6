@@ -1,0 +1,353 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuoc-doi-va-su-nghiep-cua-warren-buffett_19061.html",
+    "title" : "Cuộc Đời Và Sự Nghiệp Của Warren Buffett",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alice Schroeder",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-31",
+    "duration" : 53768,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_e1c71a387e44710633e8b6bd25c2f53e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_e1c71a387e44710633e8b6bd25c2f53e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_c0ef376a6ea9a8b92bb57d37e137dd0e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 4... (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_c0ef376a6ea9a8b92bb57d37e137dd0e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 4... (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_c0ef376a6ea9a8b92bb57d37e137dd0e_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 4... (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_c0ef376a6ea9a8b92bb57d37e137dd0e_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 4... (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (5)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_1.mp3",
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_2.mp3",
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_3.mp3",
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_4.mp3",
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_5.mp3",
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_148855640cebbe5a020764a1ba959cbe_6.mp3",
+    "title" : "01 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 1... (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_1.mp3",
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_2.mp3",
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_3.mp3",
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_4.mp3",
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_5.mp3",
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b7ef42a4b22735518b5ea8f397830ad0_6.mp3",
+    "title" : "02 Sách nói Hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 2... (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_1.mp3",
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_2.mp3",
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_3.mp3",
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_4.mp3",
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_b50730139d86c8f53a1f43b77c8e0e3d_5.mp3",
+    "title" : "03 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 3... (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_c0ef376a6ea9a8b92bb57d37e137dd0e_1.mp3",
+    "title" : "04 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 4... (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_c0ef376a6ea9a8b92bb57d37e137dd0e_2.mp3",
+    "title" : "04 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 4... (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_c0ef376a6ea9a8b92bb57d37e137dd0e_3.mp3",
+    "title" : "04 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 4... (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_c0ef376a6ea9a8b92bb57d37e137dd0e_4.mp3",
+    "title" : "04 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 4... (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_1.mp3",
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_2.mp3",
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_3.mp3",
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_4.mp3",
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_e1c71a387e44710633e8b6bd25c2f53e_fc849f5061f5c5e915a8f16ae866bede_5.mp3",
+    "title" : "05 Sách nói hòn tuyết lăn - cuộc đời và sự nghiệp của Warren Buffett - Phần 5... (5)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
