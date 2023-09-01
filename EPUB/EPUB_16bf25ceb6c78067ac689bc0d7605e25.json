@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-quang-di-an-mi-quang_19238.html",
+    "title" : "Người Quảng Đi Ăn Mì Quảng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-29",
+    "duration" : 13416,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_16bf25ceb6c78067ac689bc0d7605e25.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_16bf25ceb6c78067ac689bc0d7605e25.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_6ad27059c9277cc64be33f572a10ff3e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [01]. Lớn và Nhỏ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_7267714c01ed933d9bc7ed3ddf6a2ab5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2184,
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [02]. Ngổn ngang phố xá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_82bc13d695d22d0a0d17545393eb28f0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1952,
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [03]. Buồn gì đâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_7a01f0c5f005037346afa50e1be1d4e7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2039,
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [04]. Ấm áp trong mưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_5ced0e30d3d7171461c7cdeea87ef242_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_5ced0e30d3d7171461c7cdeea87ef242_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_a248a7652b8634c793c0eed8e42ebfb5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2166,
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [06]. Các bạn cũng có những cơ hội... (Hết)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_6ad27059c9277cc64be33f572a10ff3e.mp3",
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [01]. Lớn và Nhỏ",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_7267714c01ed933d9bc7ed3ddf6a2ab5.mp3",
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [02]. Ngổn ngang phố xá",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_82bc13d695d22d0a0d17545393eb28f0.mp3",
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [03]. Buồn gì đâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_7a01f0c5f005037346afa50e1be1d4e7.mp3",
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [04]. Ấm áp trong mưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_5ced0e30d3d7171461c7cdeea87ef242_1.mp3",
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_5ced0e30d3d7171461c7cdeea87ef242_2.mp3",
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_a248a7652b8634c793c0eed8e42ebfb5.mp3",
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [06]. Các bạn cũng có những cơ hội... (Hết)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
