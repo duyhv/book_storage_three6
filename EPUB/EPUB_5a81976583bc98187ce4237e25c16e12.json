@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khi-ban-mat-niem-tin_16766.html",
+    "title" : "Khi Bạn Mất Niềm Tin",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 11883,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_5a81976583bc98187ce4237e25c16e12.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_5a81976583bc98187ce4237e25c16e12.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 187,
+    "title" : "KBMNT-01-loi gioi thieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-02-bai_hoc_dang_nho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 257,
+    "title" : "KBMNT-02-bai hoc dang nho",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-03-bai_hoc_ve_long_dung_cam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 619,
+    "title" : "KBMNT-03-bai hoc ve long dung cam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-04-chinh_phuc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 281,
+    "title" : "KBMNT-04-chinh phuc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-05-den_van_sang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 401,
+    "title" : "KBMNT-05-den van sang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-06-co_ai_do_van_yeu_men_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 327,
+    "title" : "KBMNT-06-co ai do van yeu men ban",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-07-giai_phap_yeu_thuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 613,
+    "title" : "KBMNT-07-giai phap yeu thuong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-08-cuoc_song_luon_co_dieu_k.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 273,
+    "title" : "KBMNT-08-cuoc song luon co dieu k",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-09-hay_tin_va_giac_mo_se_th.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 529,
+    "title" : "KBMNT-09-hay tin va giac mo se th",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-10-diem_trang_tri.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 247,
+    "title" : "KBMNT-10-diem trang tri",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-11-nhung_bong_hoa_lan_chuon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 399,
+    "title" : "KBMNT-11-nhung bong hoa lan chuon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-12-doi_mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 325,
+    "title" : "KBMNT-12-doi mat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-13-hoa_hong_ko_gai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 633,
+    "title" : "KBMNT-13-hoa hong ko gai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-14-doi_tien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 191,
+    "title" : "KBMNT-14-doi tien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-15-mon_qua_cua_su_tha_thu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 479,
+    "title" : "KBMNT-15-mon qua cua su tha thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-16-mon_qua_cho_vi_khach_thu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 305,
+    "title" : "KBMNT-16-mon qua cho vi khach thu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-17-hy_vong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 649,
+    "title" : "KBMNT-17-hy vong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-18-nguoi_xay_cau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 107,
+    "title" : "KBMNT-18-nguoi xay cau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-19-mot_chuyen_xe_lua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 465,
+    "title" : "KBMNT-19-mot chuyen xe lua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-20-nhan_vien_tan_tuy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 307,
+    "title" : "KBMNT-20-nhan vien tan tuy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-21-nguoi_hung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 829,
+    "title" : "KBMNT-21-nguoi hung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-22-qua_con_giong_bao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 273,
+    "title" : "KBMNT-22-qua con giong bao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-23-nhung_canh_hong_dep_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 487,
+    "title" : "KBMNT-23-nhung canh hong dep nhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-24-vinh_quang_danh_cho_nguo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 97,
+    "title" : "KBMNT-24-vinh quang danh cho nguo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-25-su_chon_lua_cua_mark.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 421,
+    "title" : "KBMNT-25-su chon lua cua mark",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-26-hay_thuc_hien_ngay_hom_n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 317,
+    "title" : "KBMNT-26-hay thuc hien ngay hom n",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-27-tran_dau_cuoi_cung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 377,
+    "title" : "KBMNT-27-tran dau cuoi cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-28-tieng_vo_cua_mot_ban_tay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 141,
+    "title" : "KBMNT-28-tieng vo cua mot ban tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-29-pham_chat_tot_nhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 465,
+    "title" : "KBMNT-29-pham chat tot nhat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-30-nu_cuoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 365,
+    "title" : "KBMNT-30-nu cuoi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-31-va_toi_da_lam_duoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 517,
+    "title" : "KBMNT-31-va toi da lam duoc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-01-loi_gioi_thieu.mp3",
+    "title" : "KBMNT-01-loi gioi thieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-02-bai_hoc_dang_nho.mp3",
+    "title" : "KBMNT-02-bai hoc dang nho",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-03-bai_hoc_ve_long_dung_cam.mp3",
+    "title" : "KBMNT-03-bai hoc ve long dung cam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-04-chinh_phuc.mp3",
+    "title" : "KBMNT-04-chinh phuc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-05-den_van_sang.mp3",
+    "title" : "KBMNT-05-den van sang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-06-co_ai_do_van_yeu_men_ban.mp3",
+    "title" : "KBMNT-06-co ai do van yeu men ban",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-07-giai_phap_yeu_thuong.mp3",
+    "title" : "KBMNT-07-giai phap yeu thuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-08-cuoc_song_luon_co_dieu_k.mp3",
+    "title" : "KBMNT-08-cuoc song luon co dieu k",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-09-hay_tin_va_giac_mo_se_th.mp3",
+    "title" : "KBMNT-09-hay tin va giac mo se th",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-10-diem_trang_tri.mp3",
+    "title" : "KBMNT-10-diem trang tri",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-11-nhung_bong_hoa_lan_chuon.mp3",
+    "title" : "KBMNT-11-nhung bong hoa lan chuon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-12-doi_mat.mp3",
+    "title" : "KBMNT-12-doi mat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-13-hoa_hong_ko_gai.mp3",
+    "title" : "KBMNT-13-hoa hong ko gai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-14-doi_tien.mp3",
+    "title" : "KBMNT-14-doi tien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-15-mon_qua_cua_su_tha_thu.mp3",
+    "title" : "KBMNT-15-mon qua cua su tha thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-16-mon_qua_cho_vi_khach_thu.mp3",
+    "title" : "KBMNT-16-mon qua cho vi khach thu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-17-hy_vong.mp3",
+    "title" : "KBMNT-17-hy vong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-18-nguoi_xay_cau.mp3",
+    "title" : "KBMNT-18-nguoi xay cau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-19-mot_chuyen_xe_lua.mp3",
+    "title" : "KBMNT-19-mot chuyen xe lua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-20-nhan_vien_tan_tuy.mp3",
+    "title" : "KBMNT-20-nhan vien tan tuy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-21-nguoi_hung.mp3",
+    "title" : "KBMNT-21-nguoi hung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-22-qua_con_giong_bao.mp3",
+    "title" : "KBMNT-22-qua con giong bao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-23-nhung_canh_hong_dep_nhat.mp3",
+    "title" : "KBMNT-23-nhung canh hong dep nhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-24-vinh_quang_danh_cho_nguo.mp3",
+    "title" : "KBMNT-24-vinh quang danh cho nguo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-25-su_chon_lua_cua_mark.mp3",
+    "title" : "KBMNT-25-su chon lua cua mark",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-26-hay_thuc_hien_ngay_hom_n.mp3",
+    "title" : "KBMNT-26-hay thuc hien ngay hom n",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-27-tran_dau_cuoi_cung.mp3",
+    "title" : "KBMNT-27-tran dau cuoi cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-28-tieng_vo_cua_mot_ban_tay.mp3",
+    "title" : "KBMNT-28-tieng vo cua mot ban tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-29-pham_chat_tot_nhat.mp3",
+    "title" : "KBMNT-29-pham chat tot nhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-30-nu_cuoi.mp3",
+    "title" : "KBMNT-30-nu cuoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/KBMNT01LoiGioiThieu/KBMNT-31-va_toi_da_lam_duoc.mp3",
+    "title" : "KBMNT-31-va toi da lam duoc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

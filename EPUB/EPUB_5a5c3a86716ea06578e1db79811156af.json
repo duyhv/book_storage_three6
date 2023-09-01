@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/be-khoa-bi-mat-trieu-phu_19908.html",
+    "title" : "Bẻ Khóa Bí Mật Triệu Phú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thomas J. Stanley",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-28",
+    "duration" : 15592,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_5a5c3a86716ea06578e1db79811156af.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_5a5c3a86716ea06578e1db79811156af.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_c06654b8ae28f9025dabaf7c861fc1e3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_c06654b8ae28f9025dabaf7c861fc1e3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_725df1e2797872aacb3a92b4fa3a05b0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_725df1e2797872aacb3a92b4fa3a05b0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_725df1e2797872aacb3a92b4fa3a05b0_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_63a4b2da08a04468c25991e2887eab67_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_63a4b2da08a04468c25991e2887eab67_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_7f6852179f21a50dc156fbff10cbf663_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_7f6852179f21a50dc156fbff10cbf663_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "be-khoa-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_c06654b8ae28f9025dabaf7c861fc1e3_1.mp3",
+    "title" : "be-khoa-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_c06654b8ae28f9025dabaf7c861fc1e3_2.mp3",
+    "title" : "be-khoa-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_725df1e2797872aacb3a92b4fa3a05b0_1.mp3",
+    "title" : "be-khoa-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_725df1e2797872aacb3a92b4fa3a05b0_2.mp3",
+    "title" : "be-khoa-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_725df1e2797872aacb3a92b4fa3a05b0_3.mp3",
+    "title" : "be-khoa-2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_63a4b2da08a04468c25991e2887eab67_1.mp3",
+    "title" : "be-khoa-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_63a4b2da08a04468c25991e2887eab67_2.mp3",
+    "title" : "be-khoa-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_7f6852179f21a50dc156fbff10cbf663_1.mp3",
+    "title" : "be-khoa-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_5a5c3a86716ea06578e1db79811156af_7f6852179f21a50dc156fbff10cbf663_2.mp3",
+    "title" : "be-khoa-4 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
