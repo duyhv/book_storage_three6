@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xay-dung-de-truong-ton_17055.html",
+    "title" : "Xây Dựng Để Trường Tồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jim Collins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 27043,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_4c11b376a33ab31f92d09fc40eeec00c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_4c11b376a33ab31f92d09fc40eeec00c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_8ad36c505b0f1ff59fccd205ec50c615.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1590,
+    "title" : "00",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_0921885aace9fd71f20c1f74e1968c0b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_0921885aace9fd71f20c1f74e1968c0b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_94baf49736ffc04a7119be2ec990d868.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_553440d470ceceb1ad9dc24efa519405.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 806,
+    "title" : "03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_76edda91d98095da608feaea0543fd8c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 903,
+    "title" : "04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_85f0788f0938a236ffe776b16c98b1de.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_b15ec2bf2ab37dd4c4e344bb0d943bbb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_d365211b4862be5c871e397ef42cd9fd.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_409a4657a55e93d134e6cfd729ceb10f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2096,
+    "title" : "08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_08184de2d732e03ccc3950ee39b6fd7f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1944,
+    "title" : "09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_84b9863bb77fb013652f2367dd25e3c3_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_84b9863bb77fb013652f2367dd25e3c3_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_6c009189e0b4c6787e4479a51f47e854.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1091,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_8ad36c505b0f1ff59fccd205ec50c615.mp3",
+    "title" : "00",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_0921885aace9fd71f20c1f74e1968c0b_1.mp3",
+    "title" : "01 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_0921885aace9fd71f20c1f74e1968c0b_2.mp3",
+    "title" : "01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_94baf49736ffc04a7119be2ec990d868.mp3",
+    "title" : "02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_553440d470ceceb1ad9dc24efa519405.mp3",
+    "title" : "03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_76edda91d98095da608feaea0543fd8c.mp3",
+    "title" : "04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_85f0788f0938a236ffe776b16c98b1de.mp3",
+    "title" : "05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_b15ec2bf2ab37dd4c4e344bb0d943bbb.mp3",
+    "title" : "06",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_d365211b4862be5c871e397ef42cd9fd.mp3",
+    "title" : "07",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_409a4657a55e93d134e6cfd729ceb10f.mp3",
+    "title" : "08",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_08184de2d732e03ccc3950ee39b6fd7f.mp3",
+    "title" : "09",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_84b9863bb77fb013652f2367dd25e3c3_1.mp3",
+    "title" : "10 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_84b9863bb77fb013652f2367dd25e3c3_2.mp3",
+    "title" : "10 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_4c11b376a33ab31f92d09fc40eeec00c_6c009189e0b4c6787e4479a51f47e854.mp3",
+    "title" : "11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
