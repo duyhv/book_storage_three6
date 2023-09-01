@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nghiep-bao-nha-ho-vuong_16107.html",
+    "title" : "Nghiệp Báo Nhà Họ Vương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Việt Nga",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 10974,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_ba8c787049e17855fc2155f5c4757bb2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_ba8c787049e17855fc2155f5c4757bb2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_ba8c787049e17855fc2155f5c4757bb2_60ea77dfaa092ceeadc8a8b0d7454c74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3337,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_ba8c787049e17855fc2155f5c4757bb2_aca30edcb978b5c746b6659be1279bf0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_ba8c787049e17855fc2155f5c4757bb2_840fb631aeeae2318e872de958316c97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4538,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_ba8c787049e17855fc2155f5c4757bb2_60ea77dfaa092ceeadc8a8b0d7454c74.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_ba8c787049e17855fc2155f5c4757bb2_aca30edcb978b5c746b6659be1279bf0.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_ba8c787049e17855fc2155f5c4757bb2_840fb631aeeae2318e872de958316c97.mp3",
+    "title" : "3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
