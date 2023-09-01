@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lac-chon-thi-thanh_20420.html",
+    "title" : "Lạc Chốn Thị Thành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Điệp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-31",
+    "duration" : 17977,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_b50f55383b73b146dfba4c6d4ff2ef99.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_b50f55383b73b146dfba4c6d4ff2ef99.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_11578fd2333157e0dc0a7b0793bdcf8b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Lacchon 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_d18ce9915f4ddaa2583270cbbe228d52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3576,
+    "title" : "Lacchon 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_7593b6abddabf5dfc3be9446e0ea2580.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Lacchon 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_5dab88f2d358ee7774133efe9ee04d7b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Lacchon 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_a2b9f5bc5acb5702b0f061a92483f52b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3601,
+    "title" : "Lacchon 5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_11578fd2333157e0dc0a7b0793bdcf8b.mp3",
+    "title" : "Lacchon 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_d18ce9915f4ddaa2583270cbbe228d52.mp3",
+    "title" : "Lacchon 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_7593b6abddabf5dfc3be9446e0ea2580.mp3",
+    "title" : "Lacchon 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_5dab88f2d358ee7774133efe9ee04d7b.mp3",
+    "title" : "Lacchon 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_a2b9f5bc5acb5702b0f061a92483f52b.mp3",
+    "title" : "Lacchon 5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
