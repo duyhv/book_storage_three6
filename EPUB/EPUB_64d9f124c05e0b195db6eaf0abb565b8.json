@@ -1,0 +1,413 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuu-han-huyet-lang_17825.html",
+    "title" : "Cừu Hận Huyết Lang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọa Long Sinh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 50849,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_64d9f124c05e0b195db6eaf0abb565b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_64d9f124c05e0b195db6eaf0abb565b8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_17b2098bf09dbd3acb0c59d0d42e2734_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 01 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_17b2098bf09dbd3acb0c59d0d42e2734_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 01 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_38bcf1de64f869eb29491abbd280c26d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 02 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_38bcf1de64f869eb29491abbd280c26d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 02 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_d6b104fdf616c1e0a3201921e1a3bd92_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 03 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_d6b104fdf616c1e0a3201921e1a3bd92_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 03 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_48e2e5959e87d3b52abd3c795c5b0279_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 04 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_48e2e5959e87d3b52abd3c795c5b0279_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 04 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_17162cf25e5b3483da8036220ed85e3b_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 05 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_17162cf25e5b3483da8036220ed85e3b_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 05 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_8cf92f3f9c7eec7d3e213e1e9ec69923_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 06 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_8cf92f3f9c7eec7d3e213e1e9ec69923_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 06 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_95a7a633155bcfc1276ff3f9886de040_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 07 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_95a7a633155bcfc1276ff3f9886de040_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 07 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_f96c51a903571035ab82e3ce4248ce06_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 08 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_f96c51a903571035ab82e3ce4248ce06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 08 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_bc37507595a188dfa6d8309007b41756_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 09 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_bc37507595a188dfa6d8309007b41756_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 09 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_2efcf30bef4c2d7a2d4a23c2e7156a92_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 10 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_2efcf30bef4c2d7a2d4a23c2e7156a92_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 10 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_8aa3badf3eaf8d3cedeb0c48ee21ee2c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 11 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_8aa3badf3eaf8d3cedeb0c48ee21ee2c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 11 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_2eb144dad3d64431e822cc147828c730_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 12 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_2eb144dad3d64431e822cc147828c730_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 12 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_6e1373bd8b2cac1be0f0c8a0d1bfe90c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 13 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_6e1373bd8b2cac1be0f0c8a0d1bfe90c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 13 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_3f5a26e79f2ad7283c4c39e1c23549e2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 14 - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_3f5a26e79f2ad7283c4c39e1c23549e2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 14 - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_dcbe10fae62265236756169a1d857f1a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 15 (Kết truyện) - Truyện Kiếm Hiệp Hay (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_dcbe10fae62265236756169a1d857f1a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 15 (Kết truyện) - Truyện Kiếm Hiệp Hay (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_dcbe10fae62265236756169a1d857f1a_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cừu Hận Huyết Lang - Phần 15 (Kết truyện) - Truyện Kiếm Hiệp Hay (3)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_17b2098bf09dbd3acb0c59d0d42e2734_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 01 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_17b2098bf09dbd3acb0c59d0d42e2734_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 01 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_38bcf1de64f869eb29491abbd280c26d_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 02 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_38bcf1de64f869eb29491abbd280c26d_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 02 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_d6b104fdf616c1e0a3201921e1a3bd92_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 03 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_d6b104fdf616c1e0a3201921e1a3bd92_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 03 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_48e2e5959e87d3b52abd3c795c5b0279_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 04 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_48e2e5959e87d3b52abd3c795c5b0279_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 04 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_17162cf25e5b3483da8036220ed85e3b_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 05 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_17162cf25e5b3483da8036220ed85e3b_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 05 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_8cf92f3f9c7eec7d3e213e1e9ec69923_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 06 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_8cf92f3f9c7eec7d3e213e1e9ec69923_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 06 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_95a7a633155bcfc1276ff3f9886de040_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 07 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_95a7a633155bcfc1276ff3f9886de040_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 07 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_f96c51a903571035ab82e3ce4248ce06_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 08 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_f96c51a903571035ab82e3ce4248ce06_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 08 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_bc37507595a188dfa6d8309007b41756_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 09 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_bc37507595a188dfa6d8309007b41756_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 09 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_2efcf30bef4c2d7a2d4a23c2e7156a92_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 10 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_2efcf30bef4c2d7a2d4a23c2e7156a92_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 10 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_8aa3badf3eaf8d3cedeb0c48ee21ee2c_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 11 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_8aa3badf3eaf8d3cedeb0c48ee21ee2c_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 11 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_2eb144dad3d64431e822cc147828c730_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 12 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_2eb144dad3d64431e822cc147828c730_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 12 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_6e1373bd8b2cac1be0f0c8a0d1bfe90c_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 13 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_6e1373bd8b2cac1be0f0c8a0d1bfe90c_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 13 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_3f5a26e79f2ad7283c4c39e1c23549e2_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 14 - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_3f5a26e79f2ad7283c4c39e1c23549e2_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 14 - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_dcbe10fae62265236756169a1d857f1a_1.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 15 (Kết truyện) - Truyện Kiếm Hiệp Hay (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_dcbe10fae62265236756169a1d857f1a_2.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 15 (Kết truyện) - Truyện Kiếm Hiệp Hay (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_64d9f124c05e0b195db6eaf0abb565b8_dcbe10fae62265236756169a1d857f1a_3.mp3",
+    "title" : "Cừu Hận Huyết Lang - Phần 15 (Kết truyện) - Truyện Kiếm Hiệp Hay (3)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
