@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phung-vuong_16153.html",
+    "title" : "Phùng Vương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phùng Văn Khai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 60144,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_3451e329a475fc408d1a9118636aef43.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_3451e329a475fc408d1a9118636aef43.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_00e835c792e03c71bcd3942516a257a2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 02 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_00e835c792e03c71bcd3942516a257a2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 02 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_00e835c792e03c71bcd3942516a257a2_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 02 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_79f4ccb2b32101df918aa3d7afe7ed71_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 06 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_79f4ccb2b32101df918aa3d7afe7ed71_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 06 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_79f4ccb2b32101df918aa3d7afe7ed71_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 06 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_4039153b24115ef2d865667030a958ad_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương phần 01| Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_4039153b24115ef2d865667030a958ad_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương phần 01| Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_4039153b24115ef2d865667030a958ad_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương phần 01| Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_4039153b24115ef2d865667030a958ad_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tiểu thuyết Phùng vương phần 01| Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (4)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_00e835c792e03c71bcd3942516a257a2_1.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 02 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_00e835c792e03c71bcd3942516a257a2_2.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 02 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_00e835c792e03c71bcd3942516a257a2_3.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 02 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_1.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_2.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_3.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_4.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_1726cd83e10380e887bfd0cc61d1c039_5.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 03 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_1.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_2.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_3.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_4.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_44e305ade980a7e6b7e7824f45a3b62c_5.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 04 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_1.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_2.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_3.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_4.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_d7d8654cd3c645125718a6c53df25e4a_5.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 05 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_79f4ccb2b32101df918aa3d7afe7ed71_1.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 06 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_79f4ccb2b32101df918aa3d7afe7ed71_2.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 06 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_79f4ccb2b32101df918aa3d7afe7ed71_3.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 06 | Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_1.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_2.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_3.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_4.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_2d8cce00428d26c22f39b195c99f9453_5.mp3",
+    "title" : "Tiểu thuyết Phùng vương Phần 07- Phần cuối | Đọc truyện đêm khuya Đài Tiếng nói Việt Nam (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_4039153b24115ef2d865667030a958ad_1.mp3",
+    "title" : "Tiểu thuyết Phùng vương phần 01| Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_4039153b24115ef2d865667030a958ad_2.mp3",
+    "title" : "Tiểu thuyết Phùng vương phần 01| Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_4039153b24115ef2d865667030a958ad_3.mp3",
+    "title" : "Tiểu thuyết Phùng vương phần 01| Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/AUDIO/AUDIO_3451e329a475fc408d1a9118636aef43_4039153b24115ef2d865667030a958ad_4.mp3",
+    "title" : "Tiểu thuyết Phùng vương phần 01| Bố cái Đại Vương | Đọc truyện đêm khuya VOV Đài Tiếng nói Việt Nam (4)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
