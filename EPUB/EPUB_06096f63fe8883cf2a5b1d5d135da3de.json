@@ -1,0 +1,305 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-dong-quan-den-dien-bien_20747.html",
+    "title" : "Từ Đồng Quan Đến Điện Biên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Trọng Tấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 42926,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_06096f63fe8883cf2a5b1d5d135da3de.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_06096f63fe8883cf2a5b1d5d135da3de.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-1 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-1 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-1 (6)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-2 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-3 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-3 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-3 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-4 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-4 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-4 (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-dong-4 (6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_1.mp3",
+    "title" : "tu-dong-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_2.mp3",
+    "title" : "tu-dong-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_3.mp3",
+    "title" : "tu-dong-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_4.mp3",
+    "title" : "tu-dong-1 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_5.mp3",
+    "title" : "tu-dong-1 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_6e3cb331f222e9c61ab2b1c25431e523_6.mp3",
+    "title" : "tu-dong-1 (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_1.mp3",
+    "title" : "tu-dong-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_2.mp3",
+    "title" : "tu-dong-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_3.mp3",
+    "title" : "tu-dong-2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_4.mp3",
+    "title" : "tu-dong-2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_66e2f934976a66046a1a88d5ccf792b2_5.mp3",
+    "title" : "tu-dong-2 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_1.mp3",
+    "title" : "tu-dong-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_2.mp3",
+    "title" : "tu-dong-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_3.mp3",
+    "title" : "tu-dong-3 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_4.mp3",
+    "title" : "tu-dong-3 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_234152c8e81c0cea654f2be53051115f_5.mp3",
+    "title" : "tu-dong-3 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_1.mp3",
+    "title" : "tu-dong-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_2.mp3",
+    "title" : "tu-dong-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_3.mp3",
+    "title" : "tu-dong-4 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_4.mp3",
+    "title" : "tu-dong-4 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_5.mp3",
+    "title" : "tu-dong-4 (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_06096f63fe8883cf2a5b1d5d135da3de_9b651c87d1087c6f3417358333ba5e3c_6.mp3",
+    "title" : "tu-dong-4 (6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
