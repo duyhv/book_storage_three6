@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hay-mo-cua-trai-tim_16763.html",
+    "title" : "Hãy Mở Cửa Trái Tim",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thương Huyền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-28",
+    "duration" : 1336,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_6ca8c133b92f5ca702dbee155aa8b07d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_6ca8c133b92f5ca702dbee155aa8b07d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_f1c9b225f76a983e06d7c19c44cf7e06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 342,
+    "title" : "HAY MO CUA TT 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_df887fdddd499bd41432b29d41a8da31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 206,
+    "title" : "HAY MO CUA TT 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_61dd5d16843ff5008f36778020ee51f8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 198,
+    "title" : "HAY MO CUA TT 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_06c27cb897b3a5a475704558654eac19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 207,
+    "title" : "HAY MO CUA TT 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_a098b205d2e03f8a4364531fad68e394.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 185,
+    "title" : "HAY MO CUA TT 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_ac497314877c4eaa60010cf727bb4aa6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 198,
+    "title" : "HAY MO CUA TT 06",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_f1c9b225f76a983e06d7c19c44cf7e06.mp3",
+    "title" : "HAY MO CUA TT 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_df887fdddd499bd41432b29d41a8da31.mp3",
+    "title" : "HAY MO CUA TT 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_61dd5d16843ff5008f36778020ee51f8.mp3",
+    "title" : "HAY MO CUA TT 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_06c27cb897b3a5a475704558654eac19.mp3",
+    "title" : "HAY MO CUA TT 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_a098b205d2e03f8a4364531fad68e394.mp3",
+    "title" : "HAY MO CUA TT 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_ac497314877c4eaa60010cf727bb4aa6.mp3",
+    "title" : "HAY MO CUA TT 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
