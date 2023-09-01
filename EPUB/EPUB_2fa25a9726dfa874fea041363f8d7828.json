@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tim-minh-giua-dong-nguoi_19491.html",
+    "title" : "Tìm Mình Giữa Dòng Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phố Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 3244,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_2fa25a9726dfa874fea041363f8d7828.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_2fa25a9726dfa874fea041363f8d7828.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2fa25a9726dfa874fea041363f8d7828_882323976ab6c9204c98a1015cd418fd.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3244,
+    "title" : "tim-minh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_2fa25a9726dfa874fea041363f8d7828_882323976ab6c9204c98a1015cd418fd.mp3",
+    "title" : "tim-minh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
