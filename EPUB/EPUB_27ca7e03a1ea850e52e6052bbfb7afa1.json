@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mua-xa-nha_20663.html",
+    "title" : "Mùa Xa Nhà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thành Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 29308,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_27ca7e03a1ea850e52e6052bbfb7afa1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_27ca7e03a1ea850e52e6052bbfb7afa1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_07947a8acb2685c1661e26fcdc3b09f7_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_07947a8acb2685c1661e26fcdc3b09f7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_dac9aa7a6bd39d32654ece4ec557c813_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_dac9aa7a6bd39d32654ece4ec557c813_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_da42397d228a06e7112655298ee643fc_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_da42397d228a06e7112655298ee643fc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_cc986e142686e9d80d3bbd1c2f05cb64_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_cc986e142686e9d80d3bbd1c2f05cb64_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_81a470fa04ef23a065d0f896693280e2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-5 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_81a470fa04ef23a065d0f896693280e2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-5 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_cbded552486303511cf0eaaa4086c104_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-6 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_cbded552486303511cf0eaaa4086c104_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-6 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_6b1fa91ca3b40c56185ade2125429eea_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-7 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_6b1fa91ca3b40c56185ade2125429eea_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-7 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_4b3833d8c083741700accf10dec24d8c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-8 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_4b3833d8c083741700accf10dec24d8c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mua-xa-8 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_eab3190b18f4e1d77fab855a43fb6945.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3388,
+    "title" : "mua-xa-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_07947a8acb2685c1661e26fcdc3b09f7_1.mp3",
+    "title" : "mua-xa-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_07947a8acb2685c1661e26fcdc3b09f7_2.mp3",
+    "title" : "mua-xa-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_dac9aa7a6bd39d32654ece4ec557c813_1.mp3",
+    "title" : "mua-xa-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_dac9aa7a6bd39d32654ece4ec557c813_2.mp3",
+    "title" : "mua-xa-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_da42397d228a06e7112655298ee643fc_1.mp3",
+    "title" : "mua-xa-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_da42397d228a06e7112655298ee643fc_2.mp3",
+    "title" : "mua-xa-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_cc986e142686e9d80d3bbd1c2f05cb64_1.mp3",
+    "title" : "mua-xa-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_cc986e142686e9d80d3bbd1c2f05cb64_2.mp3",
+    "title" : "mua-xa-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_81a470fa04ef23a065d0f896693280e2_1.mp3",
+    "title" : "mua-xa-5 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_81a470fa04ef23a065d0f896693280e2_2.mp3",
+    "title" : "mua-xa-5 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_cbded552486303511cf0eaaa4086c104_1.mp3",
+    "title" : "mua-xa-6 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_cbded552486303511cf0eaaa4086c104_2.mp3",
+    "title" : "mua-xa-6 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_6b1fa91ca3b40c56185ade2125429eea_1.mp3",
+    "title" : "mua-xa-7 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_6b1fa91ca3b40c56185ade2125429eea_2.mp3",
+    "title" : "mua-xa-7 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_4b3833d8c083741700accf10dec24d8c_1.mp3",
+    "title" : "mua-xa-8 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_4b3833d8c083741700accf10dec24d8c_2.mp3",
+    "title" : "mua-xa-8 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage6/main/AUDIO/AUDIO_27ca7e03a1ea850e52e6052bbfb7afa1_eab3190b18f4e1d77fab855a43fb6945.mp3",
+    "title" : "mua-xa-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
