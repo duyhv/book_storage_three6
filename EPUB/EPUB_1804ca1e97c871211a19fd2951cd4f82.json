@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
+    "published" : "2023-09-06",
     "duration" : 7065,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,123 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_1804ca1e97c871211a19fd2951cd4f82.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_1804ca1e97c871211a19fd2951cd4f82.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_1804ca1e97c871211a19fd2951cd4f82.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_1804ca1e97c871211a19fd2951cd4f82.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_1.mp3",
+    "href" : "https://archive.org/download/to-i-la-be-to-tro-n-bo-nguye-n-nha-t-a-nh-truye-n-da-i-he-m-radio-320kbps_202010/TO%CC%82I%20LA%CC%80%20BE%CC%82%20TO%CC%82%20_%20TRO%CC%A3N%20BO%CC%A3%CC%82%20_%20NGUYE%CC%82%CC%83N%20NHA%CC%A3%CC%82T%20A%CC%81NH%20_%20TRUYE%CC%A3%CC%82N%20DA%CC%80I%20_%20HE%CC%89M%20RADIO_320kbps.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_6.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (6)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_7.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (7)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_8.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (8)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_9.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (9)",
+    "duration" : 7065,
+    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_1.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_2.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_3.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_4.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_5.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_6.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (6)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_7.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (7)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_8.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (8)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_1804ca1e97c871211a19fd2951cd4f82_282b978dd2fcff6d98b9318eb2484c4f_9.mp3",
-    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps (9)",
+    "href" : "https://archive.org/download/to-i-la-be-to-tro-n-bo-nguye-n-nha-t-a-nh-truye-n-da-i-he-m-radio-320kbps_202010/TO%CC%82I%20LA%CC%80%20BE%CC%82%20TO%CC%82%20_%20TRO%CC%A3N%20BO%CC%A3%CC%82%20_%20NGUYE%CC%82%CC%83N%20NHA%CC%A3%CC%82T%20A%CC%81NH%20_%20TRUYE%CC%A3%CC%82N%20DA%CC%80I%20_%20HE%CC%89M%20RADIO_320kbps.mp3",
+    "title" : "TÔI LÀ BÊ TÔ   TRỌN BỘ   NGUYỄN NHẬT ÁNH   TRUYỆN DÀI   HẺM RADIO 320kbps",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 13416,
+    "published" : "2023-09-06",
+    "duration" : 23860,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_16bf25ceb6c78067ac689bc0d7605e25.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_16bf25ceb6c78067ac689bc0d7605e25.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_16bf25ceb6c78067ac689bc0d7605e25.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_16bf25ceb6c78067ac689bc0d7605e25.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_6ad27059c9277cc64be33f572a10ff3e.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B01%5D.%20L%E1%BB%9Bn%20v%C3%A0%20Nh%E1%BB%8F.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2103,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_7267714c01ed933d9bc7ed3ddf6a2ab5.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B02%5D.%20Ng%E1%BB%95n%20ngang%20ph%E1%BB%91%20x%C3%A1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2184,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_82bc13d695d22d0a0d17545393eb28f0.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B03%5D.%20Bu%E1%BB%93n%20g%C3%AC%20%C4%91%C3%A2u.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1952,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_7a01f0c5f005037346afa50e1be1d4e7.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B04%5D.%20%E1%BA%A4m%20%C3%A1p%20trong%20m%C6%B0a.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2039,
@@ -68,23 +68,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_5ced0e30d3d7171461c7cdeea87ef242_1.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B05%5D.%20Nghe%20c%E1%BA%A3i%20l%C6%B0%C6%A1ng%20b%C3%AAn%20s%C3%B4ng%20Ti%E1%BB%81n.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền (1)",
+    "duration" : 2972,
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_5ced0e30d3d7171461c7cdeea87ef242_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_a248a7652b8634c793c0eed8e42ebfb5.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B06%5D.%20C%C3%A1c%20b%E1%BA%A1n%20c%C5%A9ng%20c%C3%B3%20nh%E1%BB%AFng%20c%C6%A1%20h%E1%BB%99i...%20%28H%E1%BA%BFt%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2166,
@@ -93,31 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_6ad27059c9277cc64be33f572a10ff3e.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B01%5D.%20L%E1%BB%9Bn%20v%C3%A0%20Nh%E1%BB%8F.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [01]. Lớn và Nhỏ",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_7267714c01ed933d9bc7ed3ddf6a2ab5.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B02%5D.%20Ng%E1%BB%95n%20ngang%20ph%E1%BB%91%20x%C3%A1.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [02]. Ngổn ngang phố xá",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_82bc13d695d22d0a0d17545393eb28f0.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B03%5D.%20Bu%E1%BB%93n%20g%C3%AC%20%C4%91%C3%A2u.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [03]. Buồn gì đâu",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_7a01f0c5f005037346afa50e1be1d4e7.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B04%5D.%20%E1%BA%A4m%20%C3%A1p%20trong%20m%C6%B0a.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [04]. Ấm áp trong mưa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_5ced0e30d3d7171461c7cdeea87ef242_1.mp3",
-    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền (1)",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B05%5D.%20Nghe%20c%E1%BA%A3i%20l%C6%B0%C6%A1ng%20b%C3%AAn%20s%C3%B4ng%20Ti%E1%BB%81n.mp3",
+    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_5ced0e30d3d7171461c7cdeea87ef242_2.mp3",
-    "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_16bf25ceb6c78067ac689bc0d7605e25_a248a7652b8634c793c0eed8e42ebfb5.mp3",
+    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B06%5D.%20C%C3%A1c%20b%E1%BA%A1n%20c%C5%A9ng%20c%C3%B3%20nh%E1%BB%AFng%20c%C6%A1%20h%E1%BB%99i...%20%28H%E1%BA%BFt%29.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [06]. Các bạn cũng có những cơ hội... (Hết)",
     "children" : [ ]
   } ],
