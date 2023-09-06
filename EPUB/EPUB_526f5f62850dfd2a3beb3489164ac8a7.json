@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 31590,
+    "published" : "2023-09-06",
+    "duration" : 63180,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_526f5f62850dfd2a3beb3489164ac8a7.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_526f5f62850dfd2a3beb3489164ac8a7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_526f5f62850dfd2a3beb3489164ac8a7.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_526f5f62850dfd2a3beb3489164ac8a7.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_55349c4693633d687beb151f5c263f2d.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-01-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2044,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_7a73429f40b89e514acf7e2df98c2ea2.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-02-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2392,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_f96257ada9ef188b7528aecf3c2652eb.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-03-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1806,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_9af29edb1047859c9afc3032c927d350.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-04-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2149,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_ef0aea51fbaf7571823e219f31eba7b1.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-05-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1502,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_01dec06a8ddedb7a2e3114ad43512bf7.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-06-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1993,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_840a4e8b32106cc189d746d13debca01.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-07-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2017,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_fbbeb7e2b42878f6a392188273a5e99c.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-08-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1528,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_103d2932b9e606b3cc5e98af7566ba0e.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-09-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1929,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_ab3b0f62a728c562da46612a86de2b37.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-10-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2490,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_343384466b6fe4c245f69c116f47634a.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-11-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2487,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_f12ca0dbb3c36e634b530dbc0778e151.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-12-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4047,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_2caf2180c096e001642f3f41ebaf6366.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-13-ChuSaLan%20-%20YenLinh%20doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2715,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_f49c364f96ec1a37afcbf011b8939f99.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-14-End%20-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2491,
@@ -149,59 +149,59 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_55349c4693633d687beb151f5c263f2d.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-01-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-01-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_7a73429f40b89e514acf7e2df98c2ea2.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-02-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-02-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_f96257ada9ef188b7528aecf3c2652eb.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-03-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-03-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_9af29edb1047859c9afc3032c927d350.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-04-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-04-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_ef0aea51fbaf7571823e219f31eba7b1.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-05-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-05-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_01dec06a8ddedb7a2e3114ad43512bf7.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-06-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-06-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_840a4e8b32106cc189d746d13debca01.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-07-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-07-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_fbbeb7e2b42878f6a392188273a5e99c.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-08-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-08-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_103d2932b9e606b3cc5e98af7566ba0e.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-09-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-09-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_ab3b0f62a728c562da46612a86de2b37.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-10-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-10-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_343384466b6fe4c245f69c116f47634a.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-11-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-11-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_f12ca0dbb3c36e634b530dbc0778e151.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-12-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-12-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_2caf2180c096e001642f3f41ebaf6366.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-13-ChuSaLan%20-%20YenLinh%20doc.mp3",
     "title" : "HươngMùU-13-ChuSaLan - YenLinh doc",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_526f5f62850dfd2a3beb3489164ac8a7_f49c364f96ec1a37afcbf011b8939f99.mp3",
+    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-14-End%20-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
     "title" : "HươngMùU-14-End -ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   } ],

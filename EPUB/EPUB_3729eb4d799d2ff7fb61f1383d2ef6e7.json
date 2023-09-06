@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-11",
-    "duration" : 43716,
+    "published" : "2023-09-06",
+    "duration" : 80146,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,33 +26,25 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_3729eb4d799d2ff7fb61f1383d2ef6e7.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_3729eb4d799d2ff7fb61f1383d2ef6e7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_3729eb4d799d2ff7fb61f1383d2ef6e7.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_3729eb4d799d2ff7fb61f1383d2ef6e7.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_01fdf6ca4bfd9277b8947b85dcb11662_1.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 1 (1)",
+    "duration" : 3643,
+    "title" : "Chương 1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_01fdf6ca4bfd9277b8947b85dcb11662_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_e1be2e08eaea29379a015ed647dc3b13.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -60,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_801d8605c302066de907efa93866eecb.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -68,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_c428676c9aa8d0d543ccc7f41c7c0b35.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -76,23 +68,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_6e3f4d005bb180ee6bda51938ed850a9_1.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 5 (1)",
+    "duration" : 3643,
+    "title" : "Chương 5",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_6e3f4d005bb180ee6bda51938ed850a9_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 5 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_f1c9f74e5046e0cb23e44e6f8c3f3182.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -100,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_87e386161ead273fbf6bf16f6a815aa5.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -108,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_436ef6a12f41a9296bd779336f595e33.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -116,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_16e9f61eba3a6dddc03ae7e29ee631bf.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -124,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_4c0072070619caec8d5413d2d859b3f7.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -132,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_722bc4c0572a3d4c7d3216518e96ff5e.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -140,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_fa8b4ff4c9561d16d10af94be18a0b03.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -149,59 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_01fdf6ca4bfd9277b8947b85dcb11662_1.mp3",
-    "title" : "Chương 1 (1)",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p1.mp3",
+    "title" : "Chương 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_01fdf6ca4bfd9277b8947b85dcb11662_2.mp3",
-    "title" : "Chương 1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_e1be2e08eaea29379a015ed647dc3b13.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p2.mp3",
     "title" : "Chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_801d8605c302066de907efa93866eecb.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p3.mp3",
     "title" : "Chương 3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_c428676c9aa8d0d543ccc7f41c7c0b35.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p4.mp3",
     "title" : "Chương 4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_6e3f4d005bb180ee6bda51938ed850a9_1.mp3",
-    "title" : "Chương 5 (1)",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p5.mp3",
+    "title" : "Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_6e3f4d005bb180ee6bda51938ed850a9_2.mp3",
-    "title" : "Chương 5 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_f1c9f74e5046e0cb23e44e6f8c3f3182.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p6.mp3",
     "title" : "Chương 6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_87e386161ead273fbf6bf16f6a815aa5.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p7.mp3",
     "title" : "Chương 7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_436ef6a12f41a9296bd779336f595e33.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p8.mp3",
     "title" : "Chương 8",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_16e9f61eba3a6dddc03ae7e29ee631bf.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p9.mp3",
     "title" : "Chương 9",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_4c0072070619caec8d5413d2d859b3f7.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p10.mp3",
     "title" : "Chương 10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_722bc4c0572a3d4c7d3216518e96ff5e.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p11.mp3",
     "title" : "Chương 11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3729eb4d799d2ff7fb61f1383d2ef6e7_fa8b4ff4c9561d16d10af94be18a0b03.mp3",
+    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p12.mp3",
     "title" : "Chương 12 (End)",
     "children" : [ ]
   } ],

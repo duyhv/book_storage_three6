@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-31",
-    "duration" : 23721,
+    "published" : "2023-09-06",
+    "duration" : 26953,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_c5f9574c3ad2976b7671dc7e7c09aca7.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_c5f9574c3ad2976b7671dc7e7c09aca7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_c5f9574c3ad2976b7671dc7e7c09aca7.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_c5f9574c3ad2976b7671dc7e7c09aca7.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_743e75276d376c5562fa84bf8baf37a1.mp3",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3232,
@@ -44,153 +44,69 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_b5d689f1f91873cc56c14e54de7f59a1_1.mp3",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 2 (1)",
+    "duration" : 4795,
+    "title" : "Chương 2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_b5d689f1f91873cc56c14e54de7f59a1_2.mp3",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 2 (2)",
+    "duration" : 4367,
+    "title" : "Một lần lầm lỡ - Chương 3 - Tác giả Bà Tùng Long",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_b5d689f1f91873cc56c14e54de7f59a1_3.mp3",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 2 (3)",
+    "duration" : 3523,
+    "title" : "Chương 4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_f2ec013da8c9d73b6e8a9b79461c1013_1.mp3",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Một lần lầm lỡ - Chương 3 - Tác giả Bà Tùng Long (1)",
+    "duration" : 4573,
+    "title" : "Chương 5",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_f2ec013da8c9d73b6e8a9b79461c1013_2.mp3",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Một lần lầm lỡ - Chương 3 - Tác giả Bà Tùng Long (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_81ac1995b1a284f3a7e90e01c0e4061e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_81ac1995b1a284f3a7e90e01c0e4061e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e6fa9a18bb69d1c21b0d089f1c39f840_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 5 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e6fa9a18bb69d1c21b0d089f1c39f840_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 5 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e6fa9a18bb69d1c21b0d089f1c39f840_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 5 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e36c8b0c6485666f3ff6029bb78d6e2d_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 6 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e36c8b0c6485666f3ff6029bb78d6e2d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chương 6 (2)",
+    "duration" : 3231,
+    "title" : "Chương 6",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_743e75276d376c5562fa84bf8baf37a1.mp3",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-1.mp3",
     "title" : "Một lần lầm lỡ - Chương 1 - Tác giả Bà Tùng Long",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_b5d689f1f91873cc56c14e54de7f59a1_1.mp3",
-    "title" : "Chương 2 (1)",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-2.mp3",
+    "title" : "Chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_b5d689f1f91873cc56c14e54de7f59a1_2.mp3",
-    "title" : "Chương 2 (2)",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-3.mp3",
+    "title" : "Một lần lầm lỡ - Chương 3 - Tác giả Bà Tùng Long",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_b5d689f1f91873cc56c14e54de7f59a1_3.mp3",
-    "title" : "Chương 2 (3)",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-4.mp3",
+    "title" : "Chương 4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_f2ec013da8c9d73b6e8a9b79461c1013_1.mp3",
-    "title" : "Một lần lầm lỡ - Chương 3 - Tác giả Bà Tùng Long (1)",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-5.mp3",
+    "title" : "Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_f2ec013da8c9d73b6e8a9b79461c1013_2.mp3",
-    "title" : "Một lần lầm lỡ - Chương 3 - Tác giả Bà Tùng Long (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_81ac1995b1a284f3a7e90e01c0e4061e_1.mp3",
-    "title" : "Chương 4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_81ac1995b1a284f3a7e90e01c0e4061e_2.mp3",
-    "title" : "Chương 4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e6fa9a18bb69d1c21b0d089f1c39f840_1.mp3",
-    "title" : "Chương 5 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e6fa9a18bb69d1c21b0d089f1c39f840_2.mp3",
-    "title" : "Chương 5 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e6fa9a18bb69d1c21b0d089f1c39f840_3.mp3",
-    "title" : "Chương 5 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e36c8b0c6485666f3ff6029bb78d6e2d_1.mp3",
-    "title" : "Chương 6 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_c5f9574c3ad2976b7671dc7e7c09aca7_e36c8b0c6485666f3ff6029bb78d6e2d_2.mp3",
-    "title" : "Chương 6 (2)",
+    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-6.mp3",
+    "title" : "Chương 6",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
-    "duration" : 19957,
+    "published" : "2023-09-06",
+    "duration" : 27157,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,49 +26,25 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_54b5a508cd256ce93b340eb67122d3a9.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_54b5a508cd256ce93b340eb67122d3a9.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_54b5a508cd256ce93b340eb67122d3a9.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_54b5a508cd256ce93b340eb67122d3a9.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_fa0230ed5428faa1b52b19c1adc24448_1.mp3",
+    "href" : "https://archive.org/download/sa-huynh-1/sa-huynh-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "sa-huynh-1 (1)",
+    "duration" : 7200,
+    "title" : "sa-huynh-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_fa0230ed5428faa1b52b19c1adc24448_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "sa-huynh-1 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_fa0230ed5428faa1b52b19c1adc24448_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "sa-huynh-1 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_fa0230ed5428faa1b52b19c1adc24448_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "sa-huynh-1 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_3189ea20b352b301c22e1b42539e29ca.mp3",
+    "href" : "https://archive.org/download/sa-huynh-1/sa-huynh-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7200,
@@ -76,61 +52,25 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_9d85505a32ff5404f3822d5e5a0bf1c5_1.mp3",
+    "href" : "https://archive.org/download/sa-huynh-1/sa-huynh-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "sa-huynh-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_9d85505a32ff5404f3822d5e5a0bf1c5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "sa-huynh-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_9d85505a32ff5404f3822d5e5a0bf1c5_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "sa-huynh-3 (3)",
+    "duration" : 5557,
+    "title" : "sa-huynh-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_fa0230ed5428faa1b52b19c1adc24448_1.mp3",
-    "title" : "sa-huynh-1 (1)",
+    "href" : "https://archive.org/download/sa-huynh-1/sa-huynh-1.mp3",
+    "title" : "sa-huynh-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_fa0230ed5428faa1b52b19c1adc24448_2.mp3",
-    "title" : "sa-huynh-1 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_fa0230ed5428faa1b52b19c1adc24448_3.mp3",
-    "title" : "sa-huynh-1 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_fa0230ed5428faa1b52b19c1adc24448_4.mp3",
-    "title" : "sa-huynh-1 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_3189ea20b352b301c22e1b42539e29ca.mp3",
+    "href" : "https://archive.org/download/sa-huynh-1/sa-huynh-2.mp3",
     "title" : "sa-huynh-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_9d85505a32ff5404f3822d5e5a0bf1c5_1.mp3",
-    "title" : "sa-huynh-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_9d85505a32ff5404f3822d5e5a0bf1c5_2.mp3",
-    "title" : "sa-huynh-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage7/main/AUDIO/AUDIO_54b5a508cd256ce93b340eb67122d3a9_9d85505a32ff5404f3822d5e5a0bf1c5_3.mp3",
-    "title" : "sa-huynh-3 (3)",
+    "href" : "https://archive.org/download/sa-huynh-1/sa-huynh-3.mp3",
+    "title" : "sa-huynh-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

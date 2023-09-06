@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-24",
+    "published" : "2023-09-06",
     "duration" : 13248,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,111 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_967ee4e7398ac611f5efd37a1427a1dd.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_967ee4e7398ac611f5efd37a1427a1dd.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_967ee4e7398ac611f5efd37a1427a1dd.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_967ee4e7398ac611f5efd37a1427a1dd.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_3a80a9a9c8a93e6671dcb9f85ff74f1c_1.mp3",
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bong-bong-1 (1)",
+    "duration" : 3600,
+    "title" : "bong-bong-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_3a80a9a9c8a93e6671dcb9f85ff74f1c_2.mp3",
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bong-bong-1 (2)",
+    "duration" : 3600,
+    "title" : "bong-bong-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_60e0203af2a023969b703b6c04b40a93_1.mp3",
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bong-bong-2 (1)",
+    "duration" : 3600,
+    "title" : "bong-bong-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_60e0203af2a023969b703b6c04b40a93_2.mp3",
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bong-bong-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_11fe3d29d964411be2bc3466f03c5c15_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bong-bong-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_11fe3d29d964411be2bc3466f03c5c15_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bong-bong-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_6958dbba032e4f9f7fab9b6fbce9cf48_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bong-bong-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_6958dbba032e4f9f7fab9b6fbce9cf48_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "bong-bong-4 (2)",
+    "duration" : 2448,
+    "title" : "bong-bong-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_3a80a9a9c8a93e6671dcb9f85ff74f1c_1.mp3",
-    "title" : "bong-bong-1 (1)",
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-1.mp3",
+    "title" : "bong-bong-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_3a80a9a9c8a93e6671dcb9f85ff74f1c_2.mp3",
-    "title" : "bong-bong-1 (2)",
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-2.mp3",
+    "title" : "bong-bong-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_60e0203af2a023969b703b6c04b40a93_1.mp3",
-    "title" : "bong-bong-2 (1)",
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-3.mp3",
+    "title" : "bong-bong-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_60e0203af2a023969b703b6c04b40a93_2.mp3",
-    "title" : "bong-bong-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_11fe3d29d964411be2bc3466f03c5c15_1.mp3",
-    "title" : "bong-bong-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_11fe3d29d964411be2bc3466f03c5c15_2.mp3",
-    "title" : "bong-bong-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_6958dbba032e4f9f7fab9b6fbce9cf48_1.mp3",
-    "title" : "bong-bong-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_967ee4e7398ac611f5efd37a1427a1dd_6958dbba032e4f9f7fab9b6fbce9cf48_2.mp3",
-    "title" : "bong-bong-4 (2)",
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-4.mp3",
+    "title" : "bong-bong-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

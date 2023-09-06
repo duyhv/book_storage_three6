@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-31",
-    "duration" : 17977,
+    "published" : "2023-09-06",
+    "duration" : 35954,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_b50f55383b73b146dfba4c6d4ff2ef99.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_b50f55383b73b146dfba4c6d4ff2ef99.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_b50f55383b73b146dfba4c6d4ff2ef99.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_b50f55383b73b146dfba4c6d4ff2ef99.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_11578fd2333157e0dc0a7b0793bdcf8b.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%201.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_d18ce9915f4ddaa2583270cbbe228d52.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%202.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3576,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_7593b6abddabf5dfc3be9446e0ea2580.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%203.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_5dab88f2d358ee7774133efe9ee04d7b.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%204.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_a2b9f5bc5acb5702b0f061a92483f52b.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%205.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3601,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_11578fd2333157e0dc0a7b0793bdcf8b.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%201.mp3",
     "title" : "Lacchon 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_d18ce9915f4ddaa2583270cbbe228d52.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%202.mp3",
     "title" : "Lacchon 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_7593b6abddabf5dfc3be9446e0ea2580.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%203.mp3",
     "title" : "Lacchon 3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_5dab88f2d358ee7774133efe9ee04d7b.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%204.mp3",
     "title" : "Lacchon 4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_b50f55383b73b146dfba4c6d4ff2ef99_a2b9f5bc5acb5702b0f061a92483f52b.mp3",
+    "href" : "https://archive.org/download/lacchon/Lacchon%205.mp3",
     "title" : "Lacchon 5",
     "children" : [ ]
   } ],

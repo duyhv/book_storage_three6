@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-28",
-    "duration" : 1336,
+    "published" : "2023-09-06",
+    "duration" : 2672,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_6ca8c133b92f5ca702dbee155aa8b07d.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_6ca8c133b92f5ca702dbee155aa8b07d.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_6ca8c133b92f5ca702dbee155aa8b07d.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_6ca8c133b92f5ca702dbee155aa8b07d.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_f1c9b225f76a983e06d7c19c44cf7e06.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2001.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 342,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_df887fdddd499bd41432b29d41a8da31.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2002.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 206,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_61dd5d16843ff5008f36778020ee51f8.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2003.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 198,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_06c27cb897b3a5a475704558654eac19.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2004.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 207,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_a098b205d2e03f8a4364531fad68e394.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2005.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 185,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_ac497314877c4eaa60010cf727bb4aa6.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2006.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 198,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_f1c9b225f76a983e06d7c19c44cf7e06.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2001.mp3",
     "title" : "HAY MO CUA TT 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_df887fdddd499bd41432b29d41a8da31.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2002.mp3",
     "title" : "HAY MO CUA TT 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_61dd5d16843ff5008f36778020ee51f8.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2003.mp3",
     "title" : "HAY MO CUA TT 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_06c27cb897b3a5a475704558654eac19.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2004.mp3",
     "title" : "HAY MO CUA TT 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_a098b205d2e03f8a4364531fad68e394.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2005.mp3",
     "title" : "HAY MO CUA TT 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6ca8c133b92f5ca702dbee155aa8b07d_ac497314877c4eaa60010cf727bb4aa6.mp3",
+    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2006.mp3",
     "title" : "HAY MO CUA TT 06",
     "children" : [ ]
   } ],

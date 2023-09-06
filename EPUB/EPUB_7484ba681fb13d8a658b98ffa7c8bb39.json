@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 77125,
+    "published" : "2023-09-06",
+    "duration" : 90311,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_7484ba681fb13d8a658b98ffa7c8bb39.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_7484ba681fb13d8a658b98ffa7c8bb39.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_7484ba681fb13d8a658b98ffa7c8bb39.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_7484ba681fb13d8a658b98ffa7c8bb39.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_1ec0c734c28823d7fc2fa1e26432584d.mp3",
+    "href" : "https://archive.org/download/khoi-day/01_Loi-Ngo_Loi-Gioi-Thieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1800,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_6283fffea054b991aa6eb1dfe40595af.mp3",
+    "href" : "https://archive.org/download/khoi-day/02_Dan-Nhap-Cua-Cac-Dich-Gia-Anh-Ngu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2036,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_102dfc4a3a64ec4ac5a6ea699d106f0b.mp3",
+    "href" : "https://archive.org/download/khoi-day/03_Phat-Giao-Tay-Tang-Dan-Nhap-Tom-Tat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1121,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_f39e65214ffcdb0699c33a285e9c0400.mp3",
+    "href" : "https://archive.org/download/khoi-day/04_Tieu-Su-Cua-Dao-Su-Vi-Dai-Patrul%20Jigme-Chokyi-Wangpo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2058,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_904b89ba1b82ed274c757231c5004538.mp3",
+    "href" : "https://archive.org/download/khoi-day/33_P2_Chuong-4_Cung-Duong-Man-Da-La-De-Vun-Boi-Phuoc-Tue.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2342,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_601c3f99ce50dc2b128722300a75144b.mp3",
+    "href" : "https://archive.org/download/khoi-day/34_P2_Chuong-5_Phap-Tich-Tu-Cong-Duc-Cua-Ke-Hanh-Khuat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2266,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_14e68143d0e769d40b4ecc5335f4b443.mp3",
+    "href" : "https://archive.org/download/khoi-day/42_Ket-Luan_Loi-Bat_Het.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1563,
@@ -92,441 +92,153 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_1.mp3",
+    "href" : "https://archive.org/download/khoi-day/khoi-day.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khoi-day (1)",
+    "duration" : 12968,
+    "title" : "khoi-day",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_2.mp3",
+    "href" : "https://archive.org/download/khoi-day/lam-the-nao.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khoi-day (2)",
+    "duration" : 6510,
+    "title" : "lam-the-nao",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_3.mp3",
+    "href" : "https://archive.org/download/khoi-day/le-vo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khoi-day (3)",
+    "duration" : 4029,
+    "title" : "le-vo",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_4.mp3",
+    "href" : "https://archive.org/download/khoi-day/nghiep-luat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khoi-day (4)",
+    "duration" : 6595,
+    "title" : "nghiep-luat",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_5.mp3",
+    "href" : "https://archive.org/download/khoi-day/nhung-kho.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khoi-day (5)",
+    "duration" : 8754,
+    "title" : "nhung-kho",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_6.mp3",
+    "href" : "https://archive.org/download/khoi-day/phap-bon.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khoi-day (6)",
+    "duration" : 7791,
+    "title" : "phap-bon",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_9f7d852b8d97f87aa6c51f1e769e00e9_1.mp3",
+    "href" : "https://archive.org/download/khoi-day/phap-chuyen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lam-the-nao (1)",
+    "duration" : 2683,
+    "title" : "phap-chuyen",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_9f7d852b8d97f87aa6c51f1e769e00e9_2.mp3",
+    "href" : "https://archive.org/download/khoi-day/qui-y.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lam-the-nao (2)",
+    "duration" : 4068,
+    "title" : "qui-y",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_9f7d852b8d97f87aa6c51f1e769e00e9_3.mp3",
+    "href" : "https://archive.org/download/khoi-day/tri-tung.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lam-the-nao (3)",
+    "duration" : 3548,
+    "title" : "tri-tung",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c252b82eabdaec3d80b14c66306fb6b5_1.mp3",
+    "href" : "https://archive.org/download/khoi-day/tu-do.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "le-vo (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c252b82eabdaec3d80b14c66306fb6b5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "le-vo (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c5375d9de7acb7f6511bbf39a5877c05_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nghiep-luat (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c5375d9de7acb7f6511bbf39a5877c05_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nghiep-luat (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c5375d9de7acb7f6511bbf39a5877c05_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nghiep-luat (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c5375d9de7acb7f6511bbf39a5877c05_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nghiep-luat (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-kho (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-kho (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-kho (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-kho (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-kho (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_51b384d78014291511b195b84cd8993b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phap-bon (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_51b384d78014291511b195b84cd8993b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phap-bon (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_51b384d78014291511b195b84cd8993b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phap-bon (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_51b384d78014291511b195b84cd8993b_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phap-bon (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_50edb00c27f6027ad1bac9c2a926c21b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phap-chuyen (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_50edb00c27f6027ad1bac9c2a926c21b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phap-chuyen (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_5bfe3cf9b84e33566db321b2c1263cf3_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "qui-y (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_5bfe3cf9b84e33566db321b2c1263cf3_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "qui-y (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_4cf4dda18c39bd697490fba08130dc25_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tri-tung (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_4cf4dda18c39bd697490fba08130dc25_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tri-tung (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_76efedbdb85c9c12be66a975a28a58ab_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tu-do (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_76efedbdb85c9c12be66a975a28a58ab_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tu-do (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_76efedbdb85c9c12be66a975a28a58ab_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tu-do (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_76efedbdb85c9c12be66a975a28a58ab_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "tu-do (4)",
+    "duration" : 6993,
+    "title" : "tu-do",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_1ec0c734c28823d7fc2fa1e26432584d.mp3",
+    "href" : "https://archive.org/download/khoi-day/01_Loi-Ngo_Loi-Gioi-Thieu.mp3",
     "title" : "01_Loi-Ngo_Loi-Gioi-Thieu/01_Loi-Ngo_Loi-Gioi-Thieu",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_6283fffea054b991aa6eb1dfe40595af.mp3",
+    "href" : "https://archive.org/download/khoi-day/02_Dan-Nhap-Cua-Cac-Dich-Gia-Anh-Ngu.mp3",
     "title" : "02_Dan-Nhap-Cua-Cac-Dich-Gia-Anh-Ngu/02_Dan-Nhap-Cua-Cac-Dich-Gia-Anh-Ngu",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_102dfc4a3a64ec4ac5a6ea699d106f0b.mp3",
+    "href" : "https://archive.org/download/khoi-day/03_Phat-Giao-Tay-Tang-Dan-Nhap-Tom-Tat.mp3",
     "title" : "03_Phat-Giao-Tay-Tang-Dan-Nhap-Tom-Tat/03_Phat-Giao-Tay-Tang-Dan-Nhap-Tom-Tat",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_f39e65214ffcdb0699c33a285e9c0400.mp3",
+    "href" : "https://archive.org/download/khoi-day/04_Tieu-Su-Cua-Dao-Su-Vi-Dai-Patrul%20Jigme-Chokyi-Wangpo.mp3",
     "title" : "04_Tieu-Su-Cua-Dao-Su-Vi-Dai-Patrul Jigme-Chokyi-Wangpo/04_Tieu-Su-Cua-Dao-Su-Vi-Dai-Patrul...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_904b89ba1b82ed274c757231c5004538.mp3",
+    "href" : "https://archive.org/download/khoi-day/33_P2_Chuong-4_Cung-Duong-Man-Da-La-De-Vun-Boi-Phuoc-Tue.mp3",
     "title" : "33_P2_Chuong-4_Cung-Duong-Man-Da-La-De-Vun-Boi-Phuoc-Tue/33_P2_Chuong-4_Cung-Duong-Man-Da-La-De-Vu..",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_601c3f99ce50dc2b128722300a75144b.mp3",
+    "href" : "https://archive.org/download/khoi-day/34_P2_Chuong-5_Phap-Tich-Tu-Cong-Duc-Cua-Ke-Hanh-Khuat.mp3",
     "title" : "34_P2_Chuong-5_Phap-Tich-Tu-Cong-Duc-Cua-Ke-Hanh-Khuat/34_P2_Chuong-5_Phap-Tich-Tu-Cong-Duc-Cua-Ke..",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_14e68143d0e769d40b4ecc5335f4b443.mp3",
+    "href" : "https://archive.org/download/khoi-day/42_Ket-Luan_Loi-Bat_Het.mp3",
     "title" : "42_Ket-Luan_Loi-Bat_Het/42_Ket-Luan_Loi-Bat_Het",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_1.mp3",
-    "title" : "khoi-day (1)",
+    "href" : "https://archive.org/download/khoi-day/khoi-day.mp3",
+    "title" : "khoi-day",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_2.mp3",
-    "title" : "khoi-day (2)",
+    "href" : "https://archive.org/download/khoi-day/lam-the-nao.mp3",
+    "title" : "lam-the-nao",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_3.mp3",
-    "title" : "khoi-day (3)",
+    "href" : "https://archive.org/download/khoi-day/le-vo.mp3",
+    "title" : "le-vo",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_4.mp3",
-    "title" : "khoi-day (4)",
+    "href" : "https://archive.org/download/khoi-day/nghiep-luat.mp3",
+    "title" : "nghiep-luat",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_5.mp3",
-    "title" : "khoi-day (5)",
+    "href" : "https://archive.org/download/khoi-day/nhung-kho.mp3",
+    "title" : "nhung-kho",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_918c52d3543a64eb1b388fbe7504212a_6.mp3",
-    "title" : "khoi-day (6)",
+    "href" : "https://archive.org/download/khoi-day/phap-bon.mp3",
+    "title" : "phap-bon",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_9f7d852b8d97f87aa6c51f1e769e00e9_1.mp3",
-    "title" : "lam-the-nao (1)",
+    "href" : "https://archive.org/download/khoi-day/phap-chuyen.mp3",
+    "title" : "phap-chuyen",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_9f7d852b8d97f87aa6c51f1e769e00e9_2.mp3",
-    "title" : "lam-the-nao (2)",
+    "href" : "https://archive.org/download/khoi-day/qui-y.mp3",
+    "title" : "qui-y",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_9f7d852b8d97f87aa6c51f1e769e00e9_3.mp3",
-    "title" : "lam-the-nao (3)",
+    "href" : "https://archive.org/download/khoi-day/tri-tung.mp3",
+    "title" : "tri-tung",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c252b82eabdaec3d80b14c66306fb6b5_1.mp3",
-    "title" : "le-vo (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c252b82eabdaec3d80b14c66306fb6b5_2.mp3",
-    "title" : "le-vo (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c5375d9de7acb7f6511bbf39a5877c05_1.mp3",
-    "title" : "nghiep-luat (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c5375d9de7acb7f6511bbf39a5877c05_2.mp3",
-    "title" : "nghiep-luat (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c5375d9de7acb7f6511bbf39a5877c05_3.mp3",
-    "title" : "nghiep-luat (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_c5375d9de7acb7f6511bbf39a5877c05_4.mp3",
-    "title" : "nghiep-luat (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_1.mp3",
-    "title" : "nhung-kho (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_2.mp3",
-    "title" : "nhung-kho (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_3.mp3",
-    "title" : "nhung-kho (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_4.mp3",
-    "title" : "nhung-kho (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_479ac20be8ae8e9dbc0f5039348f300f_5.mp3",
-    "title" : "nhung-kho (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_51b384d78014291511b195b84cd8993b_1.mp3",
-    "title" : "phap-bon (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_51b384d78014291511b195b84cd8993b_2.mp3",
-    "title" : "phap-bon (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_51b384d78014291511b195b84cd8993b_3.mp3",
-    "title" : "phap-bon (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_51b384d78014291511b195b84cd8993b_4.mp3",
-    "title" : "phap-bon (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_50edb00c27f6027ad1bac9c2a926c21b_1.mp3",
-    "title" : "phap-chuyen (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_50edb00c27f6027ad1bac9c2a926c21b_2.mp3",
-    "title" : "phap-chuyen (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_5bfe3cf9b84e33566db321b2c1263cf3_1.mp3",
-    "title" : "qui-y (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_5bfe3cf9b84e33566db321b2c1263cf3_2.mp3",
-    "title" : "qui-y (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_4cf4dda18c39bd697490fba08130dc25_1.mp3",
-    "title" : "tri-tung (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_4cf4dda18c39bd697490fba08130dc25_2.mp3",
-    "title" : "tri-tung (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_76efedbdb85c9c12be66a975a28a58ab_1.mp3",
-    "title" : "tu-do (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_76efedbdb85c9c12be66a975a28a58ab_2.mp3",
-    "title" : "tu-do (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_76efedbdb85c9c12be66a975a28a58ab_3.mp3",
-    "title" : "tu-do (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_7484ba681fb13d8a658b98ffa7c8bb39_76efedbdb85c9c12be66a975a28a58ab_4.mp3",
-    "title" : "tu-do (4)",
+    "href" : "https://archive.org/download/khoi-day/tu-do.mp3",
+    "title" : "tu-do",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

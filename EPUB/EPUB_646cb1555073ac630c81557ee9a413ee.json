@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-07",
-    "duration" : 9152,
+    "published" : "2023-09-06",
+    "duration" : 18304,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_646cb1555073ac630c81557ee9a413ee.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_646cb1555073ac630c81557ee9a413ee.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_646cb1555073ac630c81557ee9a413ee.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_646cb1555073ac630c81557ee9a413ee.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_646cb1555073ac630c81557ee9a413ee_319f99dbe78de16515b5d15ffc4d6bb6.mp3",
+    "href" : "https://archive.org/download/khua-tay-vao-may-troi.sna/KHUA_TAY_VAO_MAY_TROI_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2682,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_646cb1555073ac630c81557ee9a413ee_b5b239f1e08bdeb51eab00309d406d11.mp3",
+    "href" : "https://archive.org/download/khua-tay-vao-may-troi.sna/KHUA_TAY_VAO_MAY_TROI_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2366,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_646cb1555073ac630c81557ee9a413ee_5819eb12bd7ac0665c36195e2811bf94.mp3",
+    "href" : "https://archive.org/download/khua-tay-vao-may-troi.sna/KHUA_TAY_VAO_MAY_TROI_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1997,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_646cb1555073ac630c81557ee9a413ee_0e8c36cf1bd5754f7a2f135a56a80d10.mp3",
+    "href" : "https://archive.org/download/khua-tay-vao-may-troi.sna/KHUA_TAY_VAO_MAY_TROI_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2107,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_646cb1555073ac630c81557ee9a413ee_319f99dbe78de16515b5d15ffc4d6bb6.mp3",
+    "href" : "https://archive.org/download/khua-tay-vao-may-troi.sna/KHUA_TAY_VAO_MAY_TROI_01.mp3",
     "title" : "KHUA TAY VAO MAY TROI 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_646cb1555073ac630c81557ee9a413ee_b5b239f1e08bdeb51eab00309d406d11.mp3",
+    "href" : "https://archive.org/download/khua-tay-vao-may-troi.sna/KHUA_TAY_VAO_MAY_TROI_02.mp3",
     "title" : "KHUA TAY VAO MAY TROI 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_646cb1555073ac630c81557ee9a413ee_5819eb12bd7ac0665c36195e2811bf94.mp3",
+    "href" : "https://archive.org/download/khua-tay-vao-may-troi.sna/KHUA_TAY_VAO_MAY_TROI_03.mp3",
     "title" : "KHUA TAY VAO MAY TROI 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_646cb1555073ac630c81557ee9a413ee_0e8c36cf1bd5754f7a2f135a56a80d10.mp3",
+    "href" : "https://archive.org/download/khua-tay-vao-may-troi.sna/KHUA_TAY_VAO_MAY_TROI_04.mp3",
     "title" : "KHUA TAY VAO MAY TROI 04",
     "children" : [ ]
   } ],

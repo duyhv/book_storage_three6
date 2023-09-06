@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-25",
-    "duration" : 22046,
+    "published" : "2023-09-06",
+    "duration" : 27352,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,81 +26,41 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_6f7f5ccf1e9960b84303627dd91f45a8.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_6f7f5ccf1e9960b84303627dd91f45a8.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_6f7f5ccf1e9960b84303627dd91f45a8.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_6f7f5ccf1e9960b84303627dd91f45a8.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_f98902c5cca03add384611897f94b4c2_1.mp3",
+    "href" : "https://archive.org/download/lao-tu-1/lao-tu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lao-tu-1 (1)",
+    "duration" : 5580,
+    "title" : "lao-tu-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_f98902c5cca03add384611897f94b4c2_2.mp3",
+    "href" : "https://archive.org/download/lao-tu-1/lao-tu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lao-tu-1 (2)",
+    "duration" : 5580,
+    "title" : "lao-tu-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_f98902c5cca03add384611897f94b4c2_3.mp3",
+    "href" : "https://archive.org/download/lao-tu-1/lao-tu-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lao-tu-1 (3)",
+    "duration" : 5580,
+    "title" : "lao-tu-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_26f792c5c6742b1f9d1c8cac98b8ef7a_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lao-tu-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_26f792c5c6742b1f9d1c8cac98b8ef7a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lao-tu-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_26f792c5c6742b1f9d1c8cac98b8ef7a_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lao-tu-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_a6e873b9131e98914db4b5527fa9e336_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lao-tu-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_a6e873b9131e98914db4b5527fa9e336_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "lao-tu-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_fa684106d871d03081e73e5cff7335cf.mp3",
+    "href" : "https://archive.org/download/lao-tu-1/lao-tu-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5306,
@@ -109,39 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_f98902c5cca03add384611897f94b4c2_1.mp3",
-    "title" : "lao-tu-1 (1)",
+    "href" : "https://archive.org/download/lao-tu-1/lao-tu-1.mp3",
+    "title" : "lao-tu-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_f98902c5cca03add384611897f94b4c2_2.mp3",
-    "title" : "lao-tu-1 (2)",
+    "href" : "https://archive.org/download/lao-tu-1/lao-tu-2.mp3",
+    "title" : "lao-tu-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_f98902c5cca03add384611897f94b4c2_3.mp3",
-    "title" : "lao-tu-1 (3)",
+    "href" : "https://archive.org/download/lao-tu-1/lao-tu-3.mp3",
+    "title" : "lao-tu-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_26f792c5c6742b1f9d1c8cac98b8ef7a_1.mp3",
-    "title" : "lao-tu-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_26f792c5c6742b1f9d1c8cac98b8ef7a_2.mp3",
-    "title" : "lao-tu-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_26f792c5c6742b1f9d1c8cac98b8ef7a_3.mp3",
-    "title" : "lao-tu-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_a6e873b9131e98914db4b5527fa9e336_1.mp3",
-    "title" : "lao-tu-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_a6e873b9131e98914db4b5527fa9e336_2.mp3",
-    "title" : "lao-tu-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_6f7f5ccf1e9960b84303627dd91f45a8_fa684106d871d03081e73e5cff7335cf.mp3",
+    "href" : "https://archive.org/download/lao-tu-1/lao-tu-4.mp3",
     "title" : "lao-tu-4",
     "children" : [ ]
   } ],

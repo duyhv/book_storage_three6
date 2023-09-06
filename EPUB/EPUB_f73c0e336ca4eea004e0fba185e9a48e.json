@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 16905,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,135 +26,75 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_f73c0e336ca4eea004e0fba185e9a48e.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_f73c0e336ca4eea004e0fba185e9a48e.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_f73c0e336ca4eea004e0fba185e9a48e.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_f73c0e336ca4eea004e0fba185e9a48e.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_955e573da095bfb92e8d9fb777f2a1b3_1.mp3",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-1 (1)",
+    "duration" : 3600,
+    "title" : "vang-bong-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_955e573da095bfb92e8d9fb777f2a1b3_2.mp3",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-1 (2)",
+    "duration" : 3600,
+    "title" : "vang-bong-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_a991c90c53c200feea59e4cc56a9c51a_1.mp3",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-2 (1)",
+    "duration" : 3600,
+    "title" : "vang-bong-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_a991c90c53c200feea59e4cc56a9c51a_2.mp3",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-2 (2)",
+    "duration" : 3600,
+    "title" : "vang-bong-4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_1752e8218ce618cbfba47c6350b0b50b_1.mp3",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_1752e8218ce618cbfba47c6350b0b50b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_8cb39dbd2e654dbf2c69fde5935e61e7_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_8cb39dbd2e654dbf2c69fde5935e61e7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_c6299d844d5f2ac01f31417c8718d076_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-5 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_c6299d844d5f2ac01f31417c8718d076_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "vang-bong-5 (2)",
+    "duration" : 2505,
+    "title" : "vang-bong-5",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_955e573da095bfb92e8d9fb777f2a1b3_1.mp3",
-    "title" : "vang-bong-1 (1)",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-1.mp3",
+    "title" : "vang-bong-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_955e573da095bfb92e8d9fb777f2a1b3_2.mp3",
-    "title" : "vang-bong-1 (2)",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-2.mp3",
+    "title" : "vang-bong-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_a991c90c53c200feea59e4cc56a9c51a_1.mp3",
-    "title" : "vang-bong-2 (1)",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-3.mp3",
+    "title" : "vang-bong-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_a991c90c53c200feea59e4cc56a9c51a_2.mp3",
-    "title" : "vang-bong-2 (2)",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-4.mp3",
+    "title" : "vang-bong-4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_1752e8218ce618cbfba47c6350b0b50b_1.mp3",
-    "title" : "vang-bong-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_1752e8218ce618cbfba47c6350b0b50b_2.mp3",
-    "title" : "vang-bong-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_8cb39dbd2e654dbf2c69fde5935e61e7_1.mp3",
-    "title" : "vang-bong-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_8cb39dbd2e654dbf2c69fde5935e61e7_2.mp3",
-    "title" : "vang-bong-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_c6299d844d5f2ac01f31417c8718d076_1.mp3",
-    "title" : "vang-bong-5 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_f73c0e336ca4eea004e0fba185e9a48e_c6299d844d5f2ac01f31417c8718d076_2.mp3",
-    "title" : "vang-bong-5 (2)",
+    "href" : "https://archive.org/download/vang-bong-1/vang-bong-5.mp3",
+    "title" : "vang-bong-5",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

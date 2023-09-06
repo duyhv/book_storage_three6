@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 17917,
+    "published" : "2023-09-06",
+    "duration" : 35834,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_74765f8790aa183766c4279a245f1d4e.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_74765f8790aa183766c4279a245f1d4e.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_74765f8790aa183766c4279a245f1d4e.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_74765f8790aa183766c4279a245f1d4e.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_c51261ae0e19ed0b030de85976f149bc.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3608,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_b8edc19304a777666c6ec6d6c778491c.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3586,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_b21ae5de79931fa1c2c7b888c464dbed.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_143ab8b702b1dae101eb96d58386de95.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3519,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_2f8f8f3581d58f86d695ceae9bef6ddc.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3604,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_c51261ae0e19ed0b030de85976f149bc.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-1.mp3",
     "title" : "huyen-thoai-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_b8edc19304a777666c6ec6d6c778491c.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-2.mp3",
     "title" : "huyen-thoai-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_b21ae5de79931fa1c2c7b888c464dbed.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-3.mp3",
     "title" : "huyen-thoai-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_143ab8b702b1dae101eb96d58386de95.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-4.mp3",
     "title" : "huyen-thoai-4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_74765f8790aa183766c4279a245f1d4e_2f8f8f3581d58f86d695ceae9bef6ddc.mp3",
+    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-5.mp3",
     "title" : "huyen-thoai-5",
     "children" : [ ]
   } ],

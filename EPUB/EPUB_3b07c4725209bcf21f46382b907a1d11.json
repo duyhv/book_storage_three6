@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-06",
-    "duration" : 24520,
+    "published" : "2023-09-06",
+    "duration" : 38823,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_3b07c4725209bcf21f46382b907a1d11.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_3b07c4725209bcf21f46382b907a1d11.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_3b07c4725209bcf21f46382b907a1d11.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_3b07c4725209bcf21f46382b907a1d11.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_f07364ec2c1455a27c447181a40d0537.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/01%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1131,
@@ -44,23 +44,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_5bd795e98e274d7f8892f2a5546c35a6_1.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/02%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện nhà quê (1)",
+    "duration" : 2359,
+    "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_5bd795e98e274d7f8892f2a5546c35a6_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện nhà quê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_35b91120e04930d3944668c16dc6dbb4.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/03%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1725,
@@ -68,55 +60,31 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_6b0dfab54356d6d7227491fa42f55861_1.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/04%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện nhà quê (1)",
+    "duration" : 3005,
+    "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_6b0dfab54356d6d7227491fa42f55861_2.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/05%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện nhà quê (2)",
+    "duration" : 2206,
+    "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_622d66a9eb271008a11592445877c005_1.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/06%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện nhà quê (1)",
+    "duration" : 2647,
+    "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_622d66a9eb271008a11592445877c005_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện nhà quê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_9bcb0df0ce3a0efa8c735cccce6c2928_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện nhà quê (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_9bcb0df0ce3a0efa8c735cccce6c2928_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Chuyện nhà quê (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_5ec065d61347d980c9810cc8d0c2a4d3.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/07%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1728,
@@ -124,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_de8db47cc95c25e9e5b510cc2ae6cef1.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/08%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1784,
@@ -132,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_3bedad9afbaff8626ae3f8bbedb43986.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/09%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1222,
@@ -140,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_e9e7b27b7c262788a933794a060bcc13.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/10%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1421,
@@ -148,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_f52d879914c187c61add600a46eb9eb2.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/11%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1625,
@@ -156,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_6f5de7d84adcf5e2bb5da4dfbd31afc0.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/12%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1634,
@@ -164,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_9bd4b71c83a814095567d3a223715448.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/13%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2033,
@@ -173,71 +141,55 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_f07364ec2c1455a27c447181a40d0537.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/01%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_5bd795e98e274d7f8892f2a5546c35a6_1.mp3",
-    "title" : "Chuyện nhà quê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_5bd795e98e274d7f8892f2a5546c35a6_2.mp3",
-    "title" : "Chuyện nhà quê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_35b91120e04930d3944668c16dc6dbb4.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/02%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_6b0dfab54356d6d7227491fa42f55861_1.mp3",
-    "title" : "Chuyện nhà quê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_6b0dfab54356d6d7227491fa42f55861_2.mp3",
-    "title" : "Chuyện nhà quê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_622d66a9eb271008a11592445877c005_1.mp3",
-    "title" : "Chuyện nhà quê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_622d66a9eb271008a11592445877c005_2.mp3",
-    "title" : "Chuyện nhà quê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_9bcb0df0ce3a0efa8c735cccce6c2928_1.mp3",
-    "title" : "Chuyện nhà quê (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_9bcb0df0ce3a0efa8c735cccce6c2928_2.mp3",
-    "title" : "Chuyện nhà quê (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_5ec065d61347d980c9810cc8d0c2a4d3.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/03%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_de8db47cc95c25e9e5b510cc2ae6cef1.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/04%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_3bedad9afbaff8626ae3f8bbedb43986.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/05%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_e9e7b27b7c262788a933794a060bcc13.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/06%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_f52d879914c187c61add600a46eb9eb2.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/07%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_6f5de7d84adcf5e2bb5da4dfbd31afc0.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/08%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_3b07c4725209bcf21f46382b907a1d11_9bd4b71c83a814095567d3a223715448.mp3",
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/09%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "title" : "Chuyện nhà quê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/10%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "title" : "Chuyện nhà quê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/11%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "title" : "Chuyện nhà quê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/12%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "title" : "Chuyện nhà quê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/13%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   } ],

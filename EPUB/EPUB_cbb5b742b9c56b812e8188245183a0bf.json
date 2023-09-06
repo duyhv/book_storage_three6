@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-28",
-    "duration" : 76016,
+    "published" : "2023-09-06",
+    "duration" : 38008,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,231 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/EPUB/EPUB_cbb5b742b9c56b812e8188245183a0bf.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_cbb5b742b9c56b812e8188245183a0bf.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three6/main/IMAGE/IMAGE_cbb5b742b9c56b812e8188245183a0bf.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_cbb5b742b9c56b812e8188245183a0bf.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_1.mp3",
+    "href" : "https://archive.org/download/tdpw_20230122/%28Sa%CC%81ch%20no%CC%81i%20Full%29%20Tre%CC%82n%20%C4%90i%CC%89nh%20Pho%CC%82%CC%81%20Wall%20-%20Peter%20Lynch%20-%20Co%CC%82ng%20thu%CC%9B%CC%81c%20la%CC%80m%20gia%CC%80u%20%C4%91i%CC%89nh%20cao%20nha%CC%82%CC%81t%20ta%CC%A3i%20pho%CC%82%CC%81%20Wall%20%28128kbit_AAC%29.m4a",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_6.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (6)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_7.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (7)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_8.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (8)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_9.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (9)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_10.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (10)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_11.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (11)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_12.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (12)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_13.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (13)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_14.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (14)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_15.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (15)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_16.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (16)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_17.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (17)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_18.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (18)",
+    "duration" : 38008,
+    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất...",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_1.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_2.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_3.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_4.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_5.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_6.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (6)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_7.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (7)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_8.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (8)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_9.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (9)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_10.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (10)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_11.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (11)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_12.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (12)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_13.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (13)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_14.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (14)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_15.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (15)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_16.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (16)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_17.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (17)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage6/main/AUDIO/AUDIO_cbb5b742b9c56b812e8188245183a0bf_456a514ec1d98a3d3ca7892204baa458_18.mp3",
-    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất... (18)",
+    "href" : "https://archive.org/download/tdpw_20230122/%28Sa%CC%81ch%20no%CC%81i%20Full%29%20Tre%CC%82n%20%C4%90i%CC%89nh%20Pho%CC%82%CC%81%20Wall%20-%20Peter%20Lynch%20-%20Co%CC%82ng%20thu%CC%9B%CC%81c%20la%CC%80m%20gia%CC%80u%20%C4%91i%CC%89nh%20cao%20nha%CC%82%CC%81t%20ta%CC%A3i%20pho%CC%82%CC%81%20Wall%20%28128kbit_AAC%29.m4a",
+    "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất...",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
