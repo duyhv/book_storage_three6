@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 25040,
+    "published" : "2024-04-09",
+    "duration" : 12520,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/01.%20Ro%CC%9Bi%20xuo%CC%82%CC%81ng%20hang%20tho%CC%89.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/01-roi-xuong-hang-tho.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1049,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/02.%20Ao%20nu%CC%9Bo%CC%9B%CC%81c%20ma%CC%86%CC%81t.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/02-ao-nuoc-mat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 988,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/03.%20Cuo%CC%A3%CC%82c%20%C4%91ua%20caucus%20va%CC%80%20mo%CC%A3%CC%82t%20ca%CC%82u%20chuye%CC%A3%CC%82n%20da%CC%80i.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/03-cuoc-dua-caucus-va-mot-cau-chuyen-dai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 858,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/04.%20Su%CC%9B%CC%A3%20xua%CC%82%CC%81t%20hie%CC%A3%CC%82n%20cu%CC%89a%20Been.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/04-su-xuat-hien-cua-been.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1280,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/05.%20Lo%CC%9B%CC%80i%20khuye%CC%82n%20cu%CC%89a%20sa%CC%82u%20bu%CC%9Bo%CC%9B%CC%81m.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/05-loi-khuyen-cua-sau-buom.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1034,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/06.%20Lo%CC%9B%CC%A3n%20con%20va%CC%80%20ha%CC%A3t%20tie%CC%82u.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/06-lon-con-va-hat-tieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1182,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/07.%20Bu%CC%9B%CC%83a%20tie%CC%A3%CC%82c%20tra%CC%80%20%C4%91ie%CC%82n%20ro%CC%82%CC%80.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/07-bua-tiec-tra-dien-ro.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1058,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/08.%20Sa%CC%82n%20cho%CC%9Bi%20Crocquet%20cu%CC%89a%20Hoa%CC%80ng%20ha%CC%A3%CC%82u.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/08-san-choi-crocquet-cua-hoang-hau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1125,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/09.%20Chuye%CC%A3%CC%82n%20cu%CC%89a%20Gia%CC%89%20ba%20ba.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/09-chuyen-cua-gia-ba-ba.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1108,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/10.%20Vu%CC%83%20%C4%91ie%CC%A3%CC%82u%20to%CC%82m%20hu%CC%80m.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/10-vu-dieu-tom-hum.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 954,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/11.%20Ai%20la%CC%82%CC%81y%20ca%CC%86%CC%81p%20ba%CC%81nh%20nha%CC%82n%20tra%CC%81i%20ca%CC%82y.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/11-ai-lay-cap-banh-nhan-trai-cay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 898,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/12.%20Ba%CC%86%CC%80ng%20chu%CC%9B%CC%81ng%20cu%CC%89a%20Alice.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/12-bang-chung-cua-alice.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 986,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/01.%20Ro%CC%9Bi%20xuo%CC%82%CC%81ng%20hang%20tho%CC%89.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/01-roi-xuong-hang-tho.mp3",
     "title" : "01. Rơi xuống hang thỏ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/02.%20Ao%20nu%CC%9Bo%CC%9B%CC%81c%20ma%CC%86%CC%81t.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/02-ao-nuoc-mat.mp3",
     "title" : "02. Ao nước mắt",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/03.%20Cuo%CC%A3%CC%82c%20%C4%91ua%20caucus%20va%CC%80%20mo%CC%A3%CC%82t%20ca%CC%82u%20chuye%CC%A3%CC%82n%20da%CC%80i.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/03-cuoc-dua-caucus-va-mot-cau-chuyen-dai.mp3",
     "title" : "03. Cuộc đua caucus và một câu chuyện dài",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/04.%20Su%CC%9B%CC%A3%20xua%CC%82%CC%81t%20hie%CC%A3%CC%82n%20cu%CC%89a%20Been.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/04-su-xuat-hien-cua-been.mp3",
     "title" : "04. Sự xuất hiện của Been",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/05.%20Lo%CC%9B%CC%80i%20khuye%CC%82n%20cu%CC%89a%20sa%CC%82u%20bu%CC%9Bo%CC%9B%CC%81m.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/05-loi-khuyen-cua-sau-buom.mp3",
     "title" : "05. Lời khuyên của sâu bướm",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/06.%20Lo%CC%9B%CC%A3n%20con%20va%CC%80%20ha%CC%A3t%20tie%CC%82u.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/06-lon-con-va-hat-tieu.mp3",
     "title" : "06. Lợn con và hạt tiêu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/07.%20Bu%CC%9B%CC%83a%20tie%CC%A3%CC%82c%20tra%CC%80%20%C4%91ie%CC%82n%20ro%CC%82%CC%80.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/07-bua-tiec-tra-dien-ro.mp3",
     "title" : "07. Bữa tiệc trà điên rồ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/08.%20Sa%CC%82n%20cho%CC%9Bi%20Crocquet%20cu%CC%89a%20Hoa%CC%80ng%20ha%CC%A3%CC%82u.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/08-san-choi-crocquet-cua-hoang-hau.mp3",
     "title" : "08. Sân chơi Crocquet của Hoàng hậu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/09.%20Chuye%CC%A3%CC%82n%20cu%CC%89a%20Gia%CC%89%20ba%20ba.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/09-chuyen-cua-gia-ba-ba.mp3",
     "title" : "09. Chuyện của Giả ba ba",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/10.%20Vu%CC%83%20%C4%91ie%CC%A3%CC%82u%20to%CC%82m%20hu%CC%80m.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/10-vu-dieu-tom-hum.mp3",
     "title" : "10. Vũ điệu tôm hùm",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/11.%20Ai%20la%CC%82%CC%81y%20ca%CC%86%CC%81p%20ba%CC%81nh%20nha%CC%82n%20tra%CC%81i%20ca%CC%82y.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/11-ai-lay-cap-banh-nhan-trai-cay.mp3",
     "title" : "11. Ai lấy cắp bánh nhân trái cây",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/alice-o-xu-so-trong-guong.sna/12.%20Ba%CC%86%CC%80ng%20chu%CC%9B%CC%81ng%20cu%CC%89a%20Alice.mp3",
+    "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/12-bang-chung-cua-alice.mp3",
     "title" : "12. Bằng chứng của Alice",
     "children" : [ ]
   } ],

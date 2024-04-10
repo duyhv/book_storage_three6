@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-08",
     "duration" : 16905,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-1.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-2.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-3.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-4.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-5.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2505,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-1.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-1.mp3",
     "title" : "vang-bong-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-2.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-2.mp3",
     "title" : "vang-bong-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-3.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-3.mp3",
     "title" : "vang-bong-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-4.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-4.mp3",
     "title" : "vang-bong-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/vang-bong-1/vang-bong-5.mp3",
+    "href" : "https://archive.org/download/f73c0e336ca4eea004e0fba185e9a48e/vang-bong-5.mp3",
     "title" : "vang-bong-5",
     "children" : [ ]
   } ],
