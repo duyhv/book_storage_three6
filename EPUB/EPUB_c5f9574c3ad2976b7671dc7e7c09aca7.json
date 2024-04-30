@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 26953,
+    "published" : "2024-04-30",
+    "duration" : 23721,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-1.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/mot-lan-lam-lo-chuong-1-tac-gia-ba-tung-long.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3232,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-2.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/chuong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4795,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-3.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/mot-lan-lam-lo-chuong-3-tac-gia-ba-tung-long.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4367,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-4.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/chuong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3523,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-5.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/chuong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4573,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-6.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/chuong-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3231,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-1.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/mot-lan-lam-lo-chuong-1-tac-gia-ba-tung-long.mp3",
     "title" : "Một lần lầm lỡ - Chương 1 - Tác giả Bà Tùng Long",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-2.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/chuong-2.mp3",
     "title" : "Chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-3.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/mot-lan-lam-lo-chuong-3-tac-gia-ba-tung-long.mp3",
     "title" : "Một lần lầm lỡ - Chương 3 - Tác giả Bà Tùng Long",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-4.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/chuong-4.mp3",
     "title" : "Chương 4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-5.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/chuong-5.mp3",
     "title" : "Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mot-lan-2_202203/mot-lan-6.mp3",
+    "href" : "https://archive.org/download/c5f9574c3ad2976b7671dc7e7c09aca7/chuong-6.mp3",
     "title" : "Chương 6",
     "children" : [ ]
   } ],

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21948,
+    "published" : "2024-04-29",
+    "duration" : 10974,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nghiep-bao-dong-ho-vuong/1.mp3",
+    "href" : "https://archive.org/download/ba8c787049e17855fc2155f5c4757bb2/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3337,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nghiep-bao-dong-ho-vuong/2.mp3",
+    "href" : "https://archive.org/download/ba8c787049e17855fc2155f5c4757bb2/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3099,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nghiep-bao-dong-ho-vuong/3.mp3",
+    "href" : "https://archive.org/download/ba8c787049e17855fc2155f5c4757bb2/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4538,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nghiep-bao-dong-ho-vuong/1.mp3",
+    "href" : "https://archive.org/download/ba8c787049e17855fc2155f5c4757bb2/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nghiep-bao-dong-ho-vuong/2.mp3",
+    "href" : "https://archive.org/download/ba8c787049e17855fc2155f5c4757bb2/2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nghiep-bao-dong-ho-vuong/3.mp3",
+    "href" : "https://archive.org/download/ba8c787049e17855fc2155f5c4757bb2/3.mp3",
     "title" : "3",
     "children" : [ ]
   } ],

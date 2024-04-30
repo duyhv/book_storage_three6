@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-29",
     "duration" : 38008,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tdpw_20230122/%28Sa%CC%81ch%20no%CC%81i%20Full%29%20Tre%CC%82n%20%C4%90i%CC%89nh%20Pho%CC%82%CC%81%20Wall%20-%20Peter%20Lynch%20-%20Co%CC%82ng%20thu%CC%9B%CC%81c%20la%CC%80m%20gia%CC%80u%20%C4%91i%CC%89nh%20cao%20nha%CC%82%CC%81t%20ta%CC%A3i%20pho%CC%82%CC%81%20Wall%20%28128kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/cbb5b742b9c56b812e8188245183a0bf/-sach-noi-full-tren-dinh-pho-wall-peter-lynch-cong-thuc-lam-giau-dinh-cao-nhat-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 38008,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tdpw_20230122/%28Sa%CC%81ch%20no%CC%81i%20Full%29%20Tre%CC%82n%20%C4%90i%CC%89nh%20Pho%CC%82%CC%81%20Wall%20-%20Peter%20Lynch%20-%20Co%CC%82ng%20thu%CC%9B%CC%81c%20la%CC%80m%20gia%CC%80u%20%C4%91i%CC%89nh%20cao%20nha%CC%82%CC%81t%20ta%CC%A3i%20pho%CC%82%CC%81%20Wall%20%28128kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/cbb5b742b9c56b812e8188245183a0bf/-sach-noi-full-tren-dinh-pho-wall-peter-lynch-cong-thuc-lam-giau-dinh-cao-nhat-.mp3",
     "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất...",
     "children" : [ ]
   } ],
