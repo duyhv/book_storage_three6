@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-02",
     "duration" : 3816,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/quy-tac/quy-tac.mp3",
+    "href" : "https://archive.org/download/89c33b2cdcaf9241a27636687ab2fa7e/quy-tac.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3816,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/quy-tac/quy-tac.mp3",
+    "href" : "https://archive.org/download/89c33b2cdcaf9241a27636687ab2fa7e/quy-tac.mp3",
     "title" : "quy-tac",
     "children" : [ ]
   } ],
