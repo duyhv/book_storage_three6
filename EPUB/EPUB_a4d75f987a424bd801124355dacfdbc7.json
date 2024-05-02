@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-02",
     "duration" : 12399,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hai-vo-2/hai-vo-1.mp3",
+    "href" : "https://archive.org/download/a4d75f987a424bd801124355dacfdbc7/hai-vo-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4818,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hai-vo-2/hai-vo-2.mp3",
+    "href" : "https://archive.org/download/a4d75f987a424bd801124355dacfdbc7/hai-vo-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7581,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hai-vo-2/hai-vo-1.mp3",
+    "href" : "https://archive.org/download/a4d75f987a424bd801124355dacfdbc7/hai-vo-1.mp3",
     "title" : "hai-vo-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hai-vo-2/hai-vo-2.mp3",
+    "href" : "https://archive.org/download/a4d75f987a424bd801124355dacfdbc7/hai-vo-2.mp3",
     "title" : "hai-vo-2",
     "children" : [ ]
   } ],
