@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 21536,
+    "published" : "2024-05-02",
+    "duration" : 19768,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-1.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-2.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-3.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-4.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-5.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-6.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1768,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-1.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-1.mp3",
     "title" : "chieu-tim-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-2.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-2.mp3",
     "title" : "chieu-tim-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-3.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-3.mp3",
     "title" : "chieu-tim-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-4.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-4.mp3",
     "title" : "chieu-tim-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-5.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-5.mp3",
     "title" : "chieu-tim-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chieu-tim-1/chieu-tim-6.mp3",
+    "href" : "https://archive.org/download/9e6b14b4504c9084124fbe09e3e2c0f6/chieu-tim-6.mp3",
     "title" : "chieu-tim-6",
     "children" : [ ]
   } ],

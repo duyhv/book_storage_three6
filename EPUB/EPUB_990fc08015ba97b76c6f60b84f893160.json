@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 11527,
+    "published" : "2024-05-02",
+    "duration" : 8975,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/thoi-tho-au-cua-cac-tong-thong-my.sna/THOI_THO_AU_CUA_CAC_TONG_THONG_MY_01.mp3",
+    "href" : "https://archive.org/download/990fc08015ba97b76c6f60b84f893160/thoi-tho-au-cua-cac-tong-thong-my-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3184,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thoi-tho-au-cua-cac-tong-thong-my.sna/THOI_THO_AU_CUA_CAC_TONG_THONG_MY_02.mp3",
+    "href" : "https://archive.org/download/990fc08015ba97b76c6f60b84f893160/thoi-tho-au-cua-cac-tong-thong-my-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2552,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/thoi-tho-au-cua-cac-tong-thong-my.sna/THOI_THO_AU_CUA_CAC_TONG_THONG_MY_03.mp3",
+    "href" : "https://archive.org/download/990fc08015ba97b76c6f60b84f893160/thoi-tho-au-cua-cac-tong-thong-my-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3239,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/thoi-tho-au-cua-cac-tong-thong-my.sna/THOI_THO_AU_CUA_CAC_TONG_THONG_MY_01.mp3",
+    "href" : "https://archive.org/download/990fc08015ba97b76c6f60b84f893160/thoi-tho-au-cua-cac-tong-thong-my-01.mp3",
     "title" : "THOI THO AU CUA CAC TONG THONG MY 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thoi-tho-au-cua-cac-tong-thong-my.sna/THOI_THO_AU_CUA_CAC_TONG_THONG_MY_02.mp3",
+    "href" : "https://archive.org/download/990fc08015ba97b76c6f60b84f893160/thoi-tho-au-cua-cac-tong-thong-my-02.mp3",
     "title" : "THOI THO AU CUA CAC TONG THONG MY 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/thoi-tho-au-cua-cac-tong-thong-my.sna/THOI_THO_AU_CUA_CAC_TONG_THONG_MY_03.mp3",
+    "href" : "https://archive.org/download/990fc08015ba97b76c6f60b84f893160/thoi-tho-au-cua-cac-tong-thong-my-03.mp3",
     "title" : "THOI THO AU CUA CAC TONG THONG MY 03",
     "children" : [ ]
   } ],
