@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-04",
     "duration" : 13248,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/bong-bong-1/bong-bong-1.mp3",
+    "href" : "https://archive.org/download/967ee4e7398ac611f5efd37a1427a1dd/1-bong-bong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bong-bong-1/bong-bong-2.mp3",
+    "href" : "https://archive.org/download/967ee4e7398ac611f5efd37a1427a1dd/2-bong-bong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bong-bong-1/bong-bong-3.mp3",
+    "href" : "https://archive.org/download/967ee4e7398ac611f5efd37a1427a1dd/3-bong-bong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/bong-bong-1/bong-bong-4.mp3",
+    "href" : "https://archive.org/download/967ee4e7398ac611f5efd37a1427a1dd/4-bong-bong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2448,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/bong-bong-1/bong-bong-1.mp3",
+    "href" : "https://archive.org/download/967ee4e7398ac611f5efd37a1427a1dd/1-bong-bong-1.mp3",
     "title" : "bong-bong-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bong-bong-1/bong-bong-2.mp3",
+    "href" : "https://archive.org/download/967ee4e7398ac611f5efd37a1427a1dd/2-bong-bong-2.mp3",
     "title" : "bong-bong-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bong-bong-1/bong-bong-3.mp3",
+    "href" : "https://archive.org/download/967ee4e7398ac611f5efd37a1427a1dd/3-bong-bong-3.mp3",
     "title" : "bong-bong-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/bong-bong-1/bong-bong-4.mp3",
+    "href" : "https://archive.org/download/967ee4e7398ac611f5efd37a1427a1dd/4-bong-bong-4.mp3",
     "title" : "bong-bong-4",
     "children" : [ ]
   } ],
