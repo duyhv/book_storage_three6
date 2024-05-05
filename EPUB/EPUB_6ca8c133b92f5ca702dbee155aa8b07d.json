@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 2672,
+    "published" : "2024-05-05",
+    "duration" : 1336,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2001.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/1-hay-mo-cua-tt-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 342,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2002.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/2-hay-mo-cua-tt-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 206,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2003.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/3-hay-mo-cua-tt-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 198,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2004.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/4-hay-mo-cua-tt-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 207,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2005.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/5-hay-mo-cua-tt-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 185,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2006.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/6-hay-mo-cua-tt-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 198,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2001.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/1-hay-mo-cua-tt-01.mp3",
     "title" : "HAY MO CUA TT 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2002.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/2-hay-mo-cua-tt-02.mp3",
     "title" : "HAY MO CUA TT 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2003.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/3-hay-mo-cua-tt-03.mp3",
     "title" : "HAY MO CUA TT 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2004.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/4-hay-mo-cua-tt-04.mp3",
     "title" : "HAY MO CUA TT 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2005.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/5-hay-mo-cua-tt-05.mp3",
     "title" : "HAY MO CUA TT 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HAYMOCUATT01/HAY%20MO%20CUA%20TT%2006.mp3",
+    "href" : "https://archive.org/download/6ca8c133b92f5ca702dbee155aa8b07d/6-hay-mo-cua-tt-06.mp3",
     "title" : "HAY MO CUA TT 06",
     "children" : [ ]
   } ],

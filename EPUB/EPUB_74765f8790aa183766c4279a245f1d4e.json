@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 35834,
+    "published" : "2024-05-05",
+    "duration" : 17917,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-1.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/1-huyen-thoai-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3608,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-2.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/2-huyen-thoai-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3586,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-3.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/3-huyen-thoai-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3600,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-4.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/4-huyen-thoai-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3519,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-5.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/5-huyen-thoai-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3604,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-1.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/1-huyen-thoai-1.mp3",
     "title" : "huyen-thoai-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-2.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/2-huyen-thoai-2.mp3",
     "title" : "huyen-thoai-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-3.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/3-huyen-thoai-3.mp3",
     "title" : "huyen-thoai-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-4.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/4-huyen-thoai-4.mp3",
     "title" : "huyen-thoai-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/huyen-thoai-1/huyen-thoai-5.mp3",
+    "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/5-huyen-thoai-5.mp3",
     "title" : "huyen-thoai-5",
     "children" : [ ]
   } ],
