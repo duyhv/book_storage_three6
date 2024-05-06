@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 90311,
+    "published" : "2024-05-06",
+    "duration" : 77125,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/khoi-day/01_Loi-Ngo_Loi-Gioi-Thieu.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/1-01-loi-ngo-loi-gioi-thieu-01-loi-ngo-loi-gioi-thieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1800,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/02_Dan-Nhap-Cua-Cac-Dich-Gia-Anh-Ngu.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/2-02-dan-nhap-cua-cac-dich-gia-anh-ngu-02-dan-nhap-cua-cac-dich-gia-anh-ngu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2036,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/03_Phat-Giao-Tay-Tang-Dan-Nhap-Tom-Tat.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/3-03-phat-giao-tay-tang-dan-nhap-tom-tat-03-phat-giao-tay-tang-dan-nhap-tom-tat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1121,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/04_Tieu-Su-Cua-Dao-Su-Vi-Dai-Patrul%20Jigme-Chokyi-Wangpo.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/4-04-tieu-su-cua-dao-su-vi-dai-patrul-jigme-chokyi-wangpo-04-tieu-su-cua-dao-su-vi-dai-patrul-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2058,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/33_P2_Chuong-4_Cung-Duong-Man-Da-La-De-Vun-Boi-Phuoc-Tue.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/5-33-p2-chuong-4-cung-duong-man-da-la-de-vun-boi-phuoc-tue-33-p2-chuong-4-cung-duong-man-da-la-de-vu-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2342,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/34_P2_Chuong-5_Phap-Tich-Tu-Cong-Duc-Cua-Ke-Hanh-Khuat.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/6-34-p2-chuong-5-phap-tich-tu-cong-duc-cua-ke-hanh-khuat-34-p2-chuong-5-phap-tich-tu-cong-duc-cua-ke-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2266,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/42_Ket-Luan_Loi-Bat_Het.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/7-42-ket-luan-loi-bat-het-42-ket-luan-loi-bat-het.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1563,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/khoi-day.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/8-khoi-day.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 12968,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/lam-the-nao.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/9-lam-the-nao.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6510,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/le-vo.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/10-le-vo.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4029,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/nghiep-luat.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/11-nghiep-luat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6595,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/nhung-kho.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/12-nhung-kho.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8754,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/phap-bon.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/13-phap-bon.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7791,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/phap-chuyen.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/14-phap-chuyen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2683,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/qui-y.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/15-qui-y.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4068,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/tri-tung.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/16-tri-tung.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3548,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/khoi-day/tu-do.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/17-tu-do.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6993,
@@ -173,71 +173,71 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/khoi-day/01_Loi-Ngo_Loi-Gioi-Thieu.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/1-01-loi-ngo-loi-gioi-thieu-01-loi-ngo-loi-gioi-thieu.mp3",
     "title" : "01_Loi-Ngo_Loi-Gioi-Thieu/01_Loi-Ngo_Loi-Gioi-Thieu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/02_Dan-Nhap-Cua-Cac-Dich-Gia-Anh-Ngu.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/2-02-dan-nhap-cua-cac-dich-gia-anh-ngu-02-dan-nhap-cua-cac-dich-gia-anh-ngu.mp3",
     "title" : "02_Dan-Nhap-Cua-Cac-Dich-Gia-Anh-Ngu/02_Dan-Nhap-Cua-Cac-Dich-Gia-Anh-Ngu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/03_Phat-Giao-Tay-Tang-Dan-Nhap-Tom-Tat.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/3-03-phat-giao-tay-tang-dan-nhap-tom-tat-03-phat-giao-tay-tang-dan-nhap-tom-tat.mp3",
     "title" : "03_Phat-Giao-Tay-Tang-Dan-Nhap-Tom-Tat/03_Phat-Giao-Tay-Tang-Dan-Nhap-Tom-Tat",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/04_Tieu-Su-Cua-Dao-Su-Vi-Dai-Patrul%20Jigme-Chokyi-Wangpo.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/4-04-tieu-su-cua-dao-su-vi-dai-patrul-jigme-chokyi-wangpo-04-tieu-su-cua-dao-su-vi-dai-patrul-.mp3",
     "title" : "04_Tieu-Su-Cua-Dao-Su-Vi-Dai-Patrul Jigme-Chokyi-Wangpo/04_Tieu-Su-Cua-Dao-Su-Vi-Dai-Patrul...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/33_P2_Chuong-4_Cung-Duong-Man-Da-La-De-Vun-Boi-Phuoc-Tue.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/5-33-p2-chuong-4-cung-duong-man-da-la-de-vun-boi-phuoc-tue-33-p2-chuong-4-cung-duong-man-da-la-de-vu-.mp3",
     "title" : "33_P2_Chuong-4_Cung-Duong-Man-Da-La-De-Vun-Boi-Phuoc-Tue/33_P2_Chuong-4_Cung-Duong-Man-Da-La-De-Vu..",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/34_P2_Chuong-5_Phap-Tich-Tu-Cong-Duc-Cua-Ke-Hanh-Khuat.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/6-34-p2-chuong-5-phap-tich-tu-cong-duc-cua-ke-hanh-khuat-34-p2-chuong-5-phap-tich-tu-cong-duc-cua-ke-.mp3",
     "title" : "34_P2_Chuong-5_Phap-Tich-Tu-Cong-Duc-Cua-Ke-Hanh-Khuat/34_P2_Chuong-5_Phap-Tich-Tu-Cong-Duc-Cua-Ke..",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/42_Ket-Luan_Loi-Bat_Het.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/7-42-ket-luan-loi-bat-het-42-ket-luan-loi-bat-het.mp3",
     "title" : "42_Ket-Luan_Loi-Bat_Het/42_Ket-Luan_Loi-Bat_Het",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/khoi-day.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/8-khoi-day.mp3",
     "title" : "khoi-day",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/lam-the-nao.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/9-lam-the-nao.mp3",
     "title" : "lam-the-nao",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/le-vo.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/10-le-vo.mp3",
     "title" : "le-vo",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/nghiep-luat.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/11-nghiep-luat.mp3",
     "title" : "nghiep-luat",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/nhung-kho.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/12-nhung-kho.mp3",
     "title" : "nhung-kho",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/phap-bon.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/13-phap-bon.mp3",
     "title" : "phap-bon",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/phap-chuyen.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/14-phap-chuyen.mp3",
     "title" : "phap-chuyen",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/qui-y.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/15-qui-y.mp3",
     "title" : "qui-y",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/tri-tung.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/16-tri-tung.mp3",
     "title" : "tri-tung",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/khoi-day/tu-do.mp3",
+    "href" : "https://archive.org/download/7484ba681fb13d8a658b98ffa7c8bb39/17-tu-do.mp3",
     "title" : "tu-do",
     "children" : [ ]
   } ],
