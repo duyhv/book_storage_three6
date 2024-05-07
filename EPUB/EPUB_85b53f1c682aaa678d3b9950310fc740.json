@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 21990,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/1-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-1-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3535,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/2-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-2-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5340,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/3-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-3-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2680,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/4-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-4-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3960,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/5-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-5-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3073,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%206%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/6-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-6-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3402,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/1-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-1-192kbit-aac-.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 1   tập 1 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/2-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-2-192kbit-aac-.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 1   tập 2 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/3-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-3-192kbit-aac-.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 1   tập 3 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/4-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-4-192kbit-aac-.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 1   tập 4 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/5-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-5-192kbit-aac-.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 1   tập 5 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cbhv1/c%E1%BA%ADu%20b%C3%A9%20h%E1%BB%8Dc%20vi%E1%BB%87c%20v%C3%A0%20th%E1%BA%A7y%20tr%E1%BB%AB%20t%C3%A0%20ph%E1%BA%A7n%201%20%20%20t%E1%BA%ADp%206%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/85b53f1c682aaa678d3b9950310fc740/6-cau-be-hoc-viec-va-thay-tru-ta-phan-1-tap-6-192kbit-aac-.mp3",
     "title" : "cậu bé học việc và thầy trừ tà phần 1   tập 6 (192kbit AAC)",
     "children" : [ ]
   } ],

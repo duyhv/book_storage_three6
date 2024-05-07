@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 15592,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/be-khoa-2/be-khoa-1.mp3",
+    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/1-be-khoa-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4217,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/be-khoa-2/be-khoa-2.mp3",
+    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/2-be-khoa-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4260,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/be-khoa-2/be-khoa-3.mp3",
+    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/3-be-khoa-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4260,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/be-khoa-2/be-khoa-4.mp3",
+    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/4-be-khoa-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2855,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/be-khoa-2/be-khoa-1.mp3",
+    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/1-be-khoa-1.mp3",
     "title" : "be-khoa-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/be-khoa-2/be-khoa-2.mp3",
+    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/2-be-khoa-2.mp3",
     "title" : "be-khoa-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/be-khoa-2/be-khoa-3.mp3",
+    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/3-be-khoa-3.mp3",
     "title" : "be-khoa-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/be-khoa-2/be-khoa-4.mp3",
+    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/4-be-khoa-4.mp3",
     "title" : "be-khoa-4",
     "children" : [ ]
   } ],

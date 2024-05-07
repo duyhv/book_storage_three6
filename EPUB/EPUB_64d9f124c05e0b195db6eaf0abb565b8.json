@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-07",
     "duration" : 50849,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2001%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/1-cuu-han-huyet-lang-phan-01-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3114,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2002%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/2-cuu-han-huyet-lang-phan-02-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3090,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2003%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/3-cuu-han-huyet-lang-phan-03-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3261,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2004%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/4-cuu-han-huyet-lang-phan-04-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3258,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2005%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/5-cuu-han-huyet-lang-phan-05-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3298,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2006%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/6-cuu-han-huyet-lang-phan-06-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3125,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2007%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/7-cuu-han-huyet-lang-phan-07-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3183,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2008%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/8-cuu-han-huyet-lang-phan-08-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3023,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2009%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/9-cuu-han-huyet-lang-phan-09-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3341,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2010%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/10-cuu-han-huyet-lang-phan-10-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3450,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2011%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/11-cuu-han-huyet-lang-phan-11-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3337,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2012%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/12-cuu-han-huyet-lang-phan-12-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3695,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2013%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/13-cuu-han-huyet-lang-phan-13-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3327,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2014%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/14-cuu-han-huyet-lang-phan-14-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3408,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2015%20%28K%E1%BA%BFt%20truy%E1%BB%87n%29%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/15-cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4939,
@@ -157,63 +157,63 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2001%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/1-cuu-han-huyet-lang-phan-01-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 01 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2002%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/2-cuu-han-huyet-lang-phan-02-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 02 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2003%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/3-cuu-han-huyet-lang-phan-03-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 03 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2004%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/4-cuu-han-huyet-lang-phan-04-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 04 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2005%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/5-cuu-han-huyet-lang-phan-05-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 05 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2006%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/6-cuu-han-huyet-lang-phan-06-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 06 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2007%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/7-cuu-han-huyet-lang-phan-07-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 07 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2008%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/8-cuu-han-huyet-lang-phan-08-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 08 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2009%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/9-cuu-han-huyet-lang-phan-09-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 09 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2010%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/10-cuu-han-huyet-lang-phan-10-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 10 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2011%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/11-cuu-han-huyet-lang-phan-11-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 11 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2012%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/12-cuu-han-huyet-lang-phan-12-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 12 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2013%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/13-cuu-han-huyet-lang-phan-13-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 13 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2014%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/14-cuu-han-huyet-lang-phan-14-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 14 - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay/C%E1%BB%ABu%20H%E1%BA%ADn%20Huy%E1%BA%BFt%20Lang%20-%20Ph%E1%BA%A7n%2015%20%28K%E1%BA%BFt%20truy%E1%BB%87n%29%20-%20Truy%E1%BB%87n%20Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Hay.mp3",
+    "href" : "https://archive.org/download/64d9f124c05e0b195db6eaf0abb565b8/15-cuu-han-huyet-lang-phan-15-ket-truyen-truyen-kiem-hiep-hay.mp3",
     "title" : "Cừu Hận Huyết Lang - Phần 15 (Kết truyện) - Truyện Kiếm Hiệp Hay",
     "children" : [ ]
   } ],

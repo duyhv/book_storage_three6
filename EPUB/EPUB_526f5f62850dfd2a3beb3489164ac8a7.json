@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 63180,
+    "published" : "2024-05-07",
+    "duration" : 31590,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-01-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/1-huongmuu-01-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2044,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-02-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/2-huongmuu-02-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2392,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-03-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/3-huongmuu-03-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1806,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-04-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/4-huongmuu-04-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2149,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-05-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/5-huongmuu-05-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1502,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-06-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/6-huongmuu-06-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1993,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-07-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/7-huongmuu-07-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2017,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-08-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/8-huongmuu-08-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1528,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-09-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/9-huongmuu-09-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1929,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-10-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/10-huongmuu-10-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2490,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-11-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/11-huongmuu-11-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2487,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-12-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/12-huongmuu-12-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4047,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-13-ChuSaLan%20-%20YenLinh%20doc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/13-huongmuu-13-chusalan-yenlinh-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2715,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-14-End%20-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/14-huongmuu-14-end-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2491,
@@ -149,59 +149,59 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-01-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/1-huongmuu-01-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-01-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-02-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/2-huongmuu-02-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-02-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-03-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/3-huongmuu-03-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-03-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-04-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/4-huongmuu-04-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-04-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-05-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/5-huongmuu-05-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-05-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-06-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/6-huongmuu-06-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-06-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-07-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/7-huongmuu-07-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-07-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-08-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/8-huongmuu-08-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-08-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-09-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/9-huongmuu-09-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-09-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-10-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/10-huongmuu-10-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-10-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-11-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/11-huongmuu-11-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-11-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-12-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/12-huongmuu-12-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-12-ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-13-ChuSaLan%20-%20YenLinh%20doc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/13-huongmuu-13-chusalan-yenlinh-doc.mp3",
     "title" : "HươngMùU-13-ChuSaLan - YenLinh doc",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/HuongMuU01ChuSaLanYenLinhOc/H%C6%B0%C6%A1ngM%C3%B9U-14-End%20-ChuSaLan-Y%E1%BA%BFnLinh%C4%91%E1%BB%8Dc.mp3",
+    "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/14-huongmuu-14-end-chusalan-yenlinhdoc.mp3",
     "title" : "HươngMùU-14-End -ChuSaLan-YếnLinhđọc",
     "children" : [ ]
   } ],
