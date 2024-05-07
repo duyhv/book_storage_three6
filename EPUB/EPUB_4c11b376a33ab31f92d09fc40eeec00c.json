@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 49285,
+    "published" : "2024-05-07",
+    "duration" : 27043,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/00.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/1-00.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1590,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/01.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/2-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2403,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/02.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/3-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3003,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/03.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/4-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 806,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/04.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/5-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 903,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/05.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/6-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3603,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/06.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/7-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3603,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/07.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/8-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3603,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/08.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/9-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2096,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/09.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/10-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1944,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/10.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/11-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2398,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/11.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/12-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1091,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/00.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/1-00.mp3",
     "title" : "00",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/01.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/2-01.mp3",
     "title" : "01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/02.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/3-02.mp3",
     "title" : "02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/03.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/4-03.mp3",
     "title" : "03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/04.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/5-04.mp3",
     "title" : "04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/05.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/6-05.mp3",
     "title" : "05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/06.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/7-06.mp3",
     "title" : "06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/07.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/8-07.mp3",
     "title" : "07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/08.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/9-08.mp3",
     "title" : "08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/09.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/10-09.mp3",
     "title" : "09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/10.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/11-10.mp3",
     "title" : "10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnXayDungDeTruongTon/11.mp3",
+    "href" : "https://archive.org/download/4c11b376a33ab31f92d09fc40eeec00c/12-11.mp3",
     "title" : "11",
     "children" : [ ]
   } ],
