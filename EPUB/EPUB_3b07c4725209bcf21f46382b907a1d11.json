@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 38823,
+    "published" : "2024-05-08",
+    "duration" : 24520,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/01%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/1-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1131,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/02%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/2-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2359,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/03%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/3-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1725,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/04%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/4-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3005,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/05%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/5-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2206,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/06%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/6-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2647,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/07%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/7-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1728,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/08%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/8-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1784,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/09%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/9-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1222,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/10%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/10-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1421,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/11%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/11-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1625,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/12%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/12-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1634,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/13%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/13-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2033,
@@ -141,55 +141,55 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/01%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/1-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/02%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/2-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/03%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/3-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/04%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/4-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/05%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/5-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/06%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/6-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/07%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/7-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/08%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/8-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/09%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/9-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/10%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/10-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/11%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/11-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/12%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/12-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ChuyenNhaQueNguyenQuangLap/13%20-%20Chuy%E1%BB%87n%20nh%C3%A0%20qu%C3%AA%20-%20Nguy%E1%BB%85n%20Quang%20L%E1%BA%ADp%20.mp3",
+    "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/13-chuyen-nha-que.mp3",
     "title" : "Chuyện nhà quê",
     "children" : [ ]
   } ],
