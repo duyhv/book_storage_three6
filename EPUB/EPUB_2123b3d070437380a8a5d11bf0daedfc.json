@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 27148,
+    "published" : "2024-05-08",
+    "duration" : 19388,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/co-em-1/co-em-1.mp3",
+    "href" : "https://archive.org/download/2123b3d070437380a8a5d11bf0daedfc/1-co-em-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 7760,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-em-1/co-em-2.mp3",
+    "href" : "https://archive.org/download/2123b3d070437380a8a5d11bf0daedfc/2-co-em-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6207,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/co-em-1/co-em-3.mp3",
+    "href" : "https://archive.org/download/2123b3d070437380a8a5d11bf0daedfc/3-co-em-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5421,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/co-em-1/co-em-1.mp3",
+    "href" : "https://archive.org/download/2123b3d070437380a8a5d11bf0daedfc/1-co-em-1.mp3",
     "title" : "co-em-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-em-1/co-em-2.mp3",
+    "href" : "https://archive.org/download/2123b3d070437380a8a5d11bf0daedfc/2-co-em-2.mp3",
     "title" : "co-em-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/co-em-1/co-em-3.mp3",
+    "href" : "https://archive.org/download/2123b3d070437380a8a5d11bf0daedfc/3-co-em-3.mp3",
     "title" : "co-em-3",
     "children" : [ ]
   } ],

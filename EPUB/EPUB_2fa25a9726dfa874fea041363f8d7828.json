@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 6488,
+    "published" : "2024-05-08",
+    "duration" : 3244,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tim-minh/tim-minh.mp3",
+    "href" : "https://archive.org/download/2fa25a9726dfa874fea041363f8d7828/1-tim-minh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3244,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tim-minh/tim-minh.mp3",
+    "href" : "https://archive.org/download/2fa25a9726dfa874fea041363f8d7828/1-tim-minh.mp3",
     "title" : "tim-minh",
     "children" : [ ]
   } ],
