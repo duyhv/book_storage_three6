@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 23860,
+    "published" : "2024-05-11",
+    "duration" : 13416,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B01%5D.%20L%E1%BB%9Bn%20v%C3%A0%20Nh%E1%BB%8F.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/1-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-01-lon-va-nho.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2103,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B02%5D.%20Ng%E1%BB%95n%20ngang%20ph%E1%BB%91%20x%C3%A1.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/2-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-02-ngon-ngang-pho-xa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2184,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B03%5D.%20Bu%E1%BB%93n%20g%C3%AC%20%C4%91%C3%A2u.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/3-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-03-buon-gi-dau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1952,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B04%5D.%20%E1%BA%A4m%20%C3%A1p%20trong%20m%C6%B0a.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/4-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-04-am-ap-trong-mua.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2039,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B05%5D.%20Nghe%20c%E1%BA%A3i%20l%C6%B0%C6%A1ng%20b%C3%AAn%20s%C3%B4ng%20Ti%E1%BB%81n.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/5-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-05-nghe-cai-luong-ben-song-tien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2972,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B06%5D.%20C%C3%A1c%20b%E1%BA%A1n%20c%C5%A9ng%20c%C3%B3%20nh%E1%BB%AFng%20c%C6%A1%20h%E1%BB%99i...%20%28H%E1%BA%BFt%29.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/6-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-06-cac-ban-cung-co-nhung-co-hoi-het-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2166,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B01%5D.%20L%E1%BB%9Bn%20v%C3%A0%20Nh%E1%BB%8F.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/1-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-01-lon-va-nho.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [01]. Lớn và Nhỏ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B02%5D.%20Ng%E1%BB%95n%20ngang%20ph%E1%BB%91%20x%C3%A1.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/2-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-02-ngon-ngang-pho-xa.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [02]. Ngổn ngang phố xá",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B03%5D.%20Bu%E1%BB%93n%20g%C3%AC%20%C4%91%C3%A2u.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/3-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-03-buon-gi-dau.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [03]. Buồn gì đâu",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B04%5D.%20%E1%BA%A4m%20%C3%A1p%20trong%20m%C6%B0a.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/4-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-04-am-ap-trong-mua.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [04]. Ấm áp trong mưa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B05%5D.%20Nghe%20c%E1%BA%A3i%20l%C6%B0%C6%A1ng%20b%C3%AAn%20s%C3%B4ng%20Ti%E1%BB%81n.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/5-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-05-nghe-cai-luong-ben-song-tien.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/NguynNhtnhNgiQunginMQung05.NgheCiLngBnSngTin/Nguy%E1%BB%85n%20Nh%E1%BA%ADt%20%C3%81nh%20_%20Ng%C6%B0%E1%BB%9Di%20Qu%E1%BA%A3ng%20%C4%90i%20%C4%82n%20M%C3%AC%20Qu%E1%BA%A3ng%20%5B06%5D.%20C%C3%A1c%20b%E1%BA%A1n%20c%C5%A9ng%20c%C3%B3%20nh%E1%BB%AFng%20c%C6%A1%20h%E1%BB%99i...%20%28H%E1%BA%BFt%29.mp3",
+    "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/6-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-06-cac-ban-cung-co-nhung-co-hoi-het-.mp3",
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [06]. Các bạn cũng có những cơ hội... (Hết)",
     "children" : [ ]
   } ],
