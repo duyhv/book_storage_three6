@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-13",
     "duration" : 42162,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/1-tieu-thuyet-sapphique-1-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8513,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/2-tieu-thuyet-sapphique-2-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4108,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/3-tieu-thuyet-sapphique-3-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4929,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/4-tieu-thuyet-sapphique-4-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4688,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/5-tieu-thuyet-sapphique-5-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3858,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%206%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/6-tieu-thuyet-sapphique-6-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4911,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%207%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/7-tieu-thuyet-sapphique-7-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3752,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%208%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/8-tieu-thuyet-sapphique-8-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4343,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%209%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/9-tieu-thuyet-sapphique-9-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3060,
@@ -109,39 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%201%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/1-tieu-thuyet-sapphique-1-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 1 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%202%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/2-tieu-thuyet-sapphique-2-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 2 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%203%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/3-tieu-thuyet-sapphique-3-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 3 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%204%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/4-tieu-thuyet-sapphique-4-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 4 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%205%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/5-tieu-thuyet-sapphique-5-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 5 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%206%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/6-tieu-thuyet-sapphique-6-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 6 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%207%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/7-tieu-thuyet-sapphique-7-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 7 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%208%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/8-tieu-thuyet-sapphique-8-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 8 (192kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/spq_20230723/ti%E1%BB%83u%20thuy%E1%BA%BFt%20sapphique%209%20%28192kbit_AAC%29.m4a",
+    "href" : "https://archive.org/download/0f30a7964fb3adaaffef6de68bd68043/9-tieu-thuyet-sapphique-9-192kbit-aac-.mp3",
     "title" : "tiểu thuyết sapphique 9 (192kbit AAC)",
     "children" : [ ]
   } ],
