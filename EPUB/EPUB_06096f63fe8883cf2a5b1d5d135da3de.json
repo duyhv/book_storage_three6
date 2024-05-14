@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-13",
     "duration" : 42926,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tu-dong-1/tu-dong-1.mp3",
+    "href" : "https://archive.org/download/06096f63fe8883cf2a5b1d5d135da3de/1-tu-dong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 11952,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tu-dong-1/tu-dong-2.mp3",
+    "href" : "https://archive.org/download/06096f63fe8883cf2a5b1d5d135da3de/2-tu-dong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9724,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tu-dong-1/tu-dong-3.mp3",
+    "href" : "https://archive.org/download/06096f63fe8883cf2a5b1d5d135da3de/3-tu-dong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 9820,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tu-dong-1/tu-dong-4.mp3",
+    "href" : "https://archive.org/download/06096f63fe8883cf2a5b1d5d135da3de/4-tu-dong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 11430,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tu-dong-1/tu-dong-1.mp3",
+    "href" : "https://archive.org/download/06096f63fe8883cf2a5b1d5d135da3de/1-tu-dong-1.mp3",
     "title" : "tu-dong-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tu-dong-1/tu-dong-2.mp3",
+    "href" : "https://archive.org/download/06096f63fe8883cf2a5b1d5d135da3de/2-tu-dong-2.mp3",
     "title" : "tu-dong-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tu-dong-1/tu-dong-3.mp3",
+    "href" : "https://archive.org/download/06096f63fe8883cf2a5b1d5d135da3de/3-tu-dong-3.mp3",
     "title" : "tu-dong-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tu-dong-1/tu-dong-4.mp3",
+    "href" : "https://archive.org/download/06096f63fe8883cf2a5b1d5d135da3de/4-tu-dong-4.mp3",
     "title" : "tu-dong-4",
     "children" : [ ]
   } ],
