@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2024-05-15",
     "duration" : 40325,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/EPUB/EPUB_cf8b43398f0140c3df687d56fbff65bc.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/EPUB/EPUB_cf8b43398f0140c3df687d56fbff65bc.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three6/main/IMAGE/IMAGE_cf8b43398f0140c3df687d56fbff65bc.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three6/main/IMAGE/IMAGE_cf8b43398f0140c3df687d56fbff65bc.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/00.GioiThieu_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/1-00-gioithieu-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2321,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/01.C01A_NhungGiacMongthamLam_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/2-01-c01a-nhunggiacmongthamlam-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1878,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/02.C01B_NhungGiacMongthamLam_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/3-02-c01b-nhunggiacmongthamlam-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1885,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/03.C01C_NhungGiacMongthamLam_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/4-03-c01c-nhunggiacmongthamlam-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1936,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/04.C02A_SuLeThuocCuaConNguoi_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/5-04-c02a-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1898,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/05.C02B_SuLeThuocCuaConNguoi_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/6-05-c02b-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1926,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/06.C02C_SuLeThuocCuaConNguoi_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/7-06-c02c-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2515,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/07.C03A_ThoiPhongBongBong_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/8-07-c03a-thoiphongbongbong-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2056,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/08.C03B_ThoiPhongBongBong_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/9-08-c03b-thoiphongbongbong-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1872,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/09.C03C_ThoiPhongBongBong_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/10-09-c03c-thoiphongbongbong-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2496,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/10.C04A_SuTroLaiCuaRuiRo_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/11-10-c04a-sutrolaicuaruiro-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2155,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/11.C04B_SuTroLaiCuaRuiRo_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/12-11-c04b-sutrolaicuaruiro-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1914,
@@ -132,7 +132,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/12.C04C_SuTroLaiCuaRuiRo_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/13-12-c04c-sutrolaicuaruiro-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1701,
@@ -140,7 +140,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/13.C05A_AnToanNhuNhungNgoiNha_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/14-13-c05a-antoannhunhungngoinha-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1963,
@@ -148,7 +148,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/14.C05B_AnToanNhuNhungNgoiNha_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/15-14-c05b-antoannhunhungngoinha-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2046,
@@ -156,7 +156,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/15.C05C_AnToanNhuNhungNgoiNha_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/16-15-c05c-antoannhunhungngoinha-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1105,
@@ -164,7 +164,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/16.C06A_TuDeQuocDenTrungHoaMy_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/17-16-c06a-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2018,
@@ -172,7 +172,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/17.C06B_TuDeQuocDenTrungHoaMy_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/18-17-c06b-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1904,
@@ -180,7 +180,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/18.C06C_TuDeQuocDenTrungHoaMy_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/19-18-c06c-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1815,
@@ -188,7 +188,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/19.C06D_TuDeQuocDenTrungHoaMy_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/20-19-c06d-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 996,
@@ -196,7 +196,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/20.LoiKet_Het_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/21-20-loiket-het-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1925,
@@ -205,87 +205,87 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/00.GioiThieu_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/1-00-gioithieu-dongtienlenngoi.mp3",
     "title" : "00.GioiThieu DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/01.C01A_NhungGiacMongthamLam_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/2-01-c01a-nhunggiacmongthamlam-dongtienlenngoi.mp3",
     "title" : "01.C01A NhungGiacMongthamLam DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/02.C01B_NhungGiacMongthamLam_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/3-02-c01b-nhunggiacmongthamlam-dongtienlenngoi.mp3",
     "title" : "02.C01B NhungGiacMongthamLam DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/03.C01C_NhungGiacMongthamLam_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/4-03-c01c-nhunggiacmongthamlam-dongtienlenngoi.mp3",
     "title" : "03.C01C NhungGiacMongthamLam DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/04.C02A_SuLeThuocCuaConNguoi_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/5-04-c02a-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "title" : "04.C02A SuLeThuocCuaConNguoi DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/05.C02B_SuLeThuocCuaConNguoi_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/6-05-c02b-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "title" : "05.C02B SuLeThuocCuaConNguoi DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/06.C02C_SuLeThuocCuaConNguoi_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/7-06-c02c-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "title" : "06.C02C SuLeThuocCuaConNguoi DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/07.C03A_ThoiPhongBongBong_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/8-07-c03a-thoiphongbongbong-dongtienlenngoi.mp3",
     "title" : "07.C03A ThoiPhongBongBong DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/08.C03B_ThoiPhongBongBong_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/9-08-c03b-thoiphongbongbong-dongtienlenngoi.mp3",
     "title" : "08.C03B ThoiPhongBongBong DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/09.C03C_ThoiPhongBongBong_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/10-09-c03c-thoiphongbongbong-dongtienlenngoi.mp3",
     "title" : "09.C03C ThoiPhongBongBong DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/10.C04A_SuTroLaiCuaRuiRo_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/11-10-c04a-sutrolaicuaruiro-dongtienlenngoi.mp3",
     "title" : "10.C04A SuTroLaiCuaRuiRo DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/11.C04B_SuTroLaiCuaRuiRo_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/12-11-c04b-sutrolaicuaruiro-dongtienlenngoi.mp3",
     "title" : "11.C04B SuTroLaiCuaRuiRo DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/12.C04C_SuTroLaiCuaRuiRo_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/13-12-c04c-sutrolaicuaruiro-dongtienlenngoi.mp3",
     "title" : "12.C04C SuTroLaiCuaRuiRo DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/13.C05A_AnToanNhuNhungNgoiNha_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/14-13-c05a-antoannhunhungngoinha-dongtienlenngoi.mp3",
     "title" : "13.C05A AnToanNhuNhungNgoiNha DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/14.C05B_AnToanNhuNhungNgoiNha_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/15-14-c05b-antoannhunhungngoinha-dongtienlenngoi.mp3",
     "title" : "14.C05B AnToanNhuNhungNgoiNha DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/15.C05C_AnToanNhuNhungNgoiNha_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/16-15-c05c-antoannhunhungngoinha-dongtienlenngoi.mp3",
     "title" : "15.C05C AnToanNhuNhungNgoiNha DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/16.C06A_TuDeQuocDenTrungHoaMy_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/17-16-c06a-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "title" : "16.C06A TuDeQuocDenTrungHoaMy DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/17.C06B_TuDeQuocDenTrungHoaMy_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/18-17-c06b-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "title" : "17.C06B TuDeQuocDenTrungHoaMy DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/18.C06C_TuDeQuocDenTrungHoaMy_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/19-18-c06c-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "title" : "18.C06C TuDeQuocDenTrungHoaMy DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/19.C06D_TuDeQuocDenTrungHoaMy_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/20-19-c06d-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "title" : "19.C06D TuDeQuocDenTrungHoaMy DongTienLenNgoi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dong-tien-len-ngoi.sna/20.LoiKet_Het_DongTienLenNgoi.mp3",
+    "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/21-20-loiket-het-dongtienlenngoi.mp3",
     "title" : "20.LoiKet Het DongTienLenNgoi",
     "children" : [ ]
   } ],
