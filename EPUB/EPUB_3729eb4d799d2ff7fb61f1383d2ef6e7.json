@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 80146,
+    "published" : "2024-06-07",
+    "duration" : 43716,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p1.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/1-chuong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p2.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/2-chuong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p3.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/3-chuong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p4.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/4-chuong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p5.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/5-chuong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p6.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/6-chuong-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p7.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/7-chuong-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p8.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/8-chuong-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p9.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/9-chuong-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p10.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/10-chuong-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p11.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/11-chuong-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p12.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/12-chuong-12-end-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p1.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/1-chuong-1.mp3",
     "title" : "Chương 1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p2.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/2-chuong-2.mp3",
     "title" : "Chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p3.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/3-chuong-3.mp3",
     "title" : "Chương 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p4.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/4-chuong-4.mp3",
     "title" : "Chương 4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p5.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/5-chuong-5.mp3",
     "title" : "Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p6.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/6-chuong-6.mp3",
     "title" : "Chương 6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p7.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/7-chuong-7.mp3",
     "title" : "Chương 7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p8.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/8-chuong-8.mp3",
     "title" : "Chương 8",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p9.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/9-chuong-9.mp3",
     "title" : "Chương 9",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p10.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/10-chuong-10.mp3",
     "title" : "Chương 10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p11.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/11-chuong-11.mp3",
     "title" : "Chương 11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/diem-tin-va-nong-gian-p1/diem-tin-va-nong-gian-p12.mp3",
+    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/12-chuong-12-end-.mp3",
     "title" : "Chương 12 (End)",
     "children" : [ ]
   } ],
