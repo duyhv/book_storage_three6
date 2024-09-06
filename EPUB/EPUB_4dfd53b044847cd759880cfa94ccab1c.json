@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-07",
+    "published" : "2024-09-06",
     "duration" : 33706,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chien-binh-cau-vong/1.mp3",
+    "href" : "https://archive.org/download/4dfd53b044847cd759880cfa94ccab1c/1-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 20222,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/chien-binh-cau-vong/2.mp3",
+    "href" : "https://archive.org/download/4dfd53b044847cd759880cfa94ccab1c/2-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 13484,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chien-binh-cau-vong/1.mp3",
+    "href" : "https://archive.org/download/4dfd53b044847cd759880cfa94ccab1c/1-1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/chien-binh-cau-vong/2.mp3",
+    "href" : "https://archive.org/download/4dfd53b044847cd759880cfa94ccab1c/2-2.mp3",
     "title" : "2",
     "children" : [ ]
   } ],
