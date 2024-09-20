@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-07",
-    "duration" : 31590,
+    "published" : "2024-09-20",
+    "duration" : 31585,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/2-huongmuu-02-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2392,
+    "duration" : 2393,
     "title" : "HươngMùU-02-ChuSaLan-YếnLinhđọc",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/5-huongmuu-05-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1502,
+    "duration" : 1503,
     "title" : "HươngMùU-05-ChuSaLan-YếnLinhđọc",
     "properties" : null,
     "alternate" : null
@@ -95,7 +95,7 @@
     "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/8-huongmuu-08-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1528,
+    "duration" : 1529,
     "title" : "HươngMùU-08-ChuSaLan-YếnLinhđọc",
     "properties" : null,
     "alternate" : null
@@ -103,7 +103,7 @@
     "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/9-huongmuu-09-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1929,
+    "duration" : 1930,
     "title" : "HươngMùU-09-ChuSaLan-YếnLinhđọc",
     "properties" : null,
     "alternate" : null
@@ -111,7 +111,7 @@
     "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/10-huongmuu-10-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2490,
+    "duration" : 2491,
     "title" : "HươngMùU-10-ChuSaLan-YếnLinhđọc",
     "properties" : null,
     "alternate" : null
@@ -127,7 +127,7 @@
     "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/12-huongmuu-12-chusalan-yenlinhdoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4047,
+    "duration" : 4048,
     "title" : "HươngMùU-12-ChuSaLan-YếnLinhđọc",
     "properties" : null,
     "alternate" : null
@@ -135,7 +135,7 @@
     "href" : "https://archive.org/download/526f5f62850dfd2a3beb3489164ac8a7/13-huongmuu-13-chusalan-yenlinh-doc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2715,
+    "duration" : 2704,
     "title" : "HươngMùU-13-ChuSaLan - YenLinh doc",
     "properties" : null,
     "alternate" : null

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-15",
-    "duration" : 40325,
+    "published" : "2024-09-20",
+    "duration" : 40338,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/1-00-gioithieu-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2321,
+    "duration" : 2322,
     "title" : "00.GioiThieu DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/2-01-c01a-nhunggiacmongthamlam-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1878,
+    "duration" : 1879,
     "title" : "01.C01A NhungGiacMongthamLam DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/3-02-c01b-nhunggiacmongthamlam-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1885,
+    "duration" : 1886,
     "title" : "02.C01B NhungGiacMongthamLam DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/5-04-c02a-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1898,
+    "duration" : 1899,
     "title" : "04.C02A SuLeThuocCuaConNguoi DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/6-05-c02b-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1926,
+    "duration" : 1927,
     "title" : "05.C02B SuLeThuocCuaConNguoi DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/7-06-c02c-sulethuoccuaconnguoi-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2515,
+    "duration" : 2516,
     "title" : "06.C02C SuLeThuocCuaConNguoi DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -103,7 +103,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/9-08-c03b-thoiphongbongbong-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1872,
+    "duration" : 1873,
     "title" : "08.C03B ThoiPhongBongBong DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -135,7 +135,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/13-12-c04c-sutrolaicuaruiro-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1701,
+    "duration" : 1702,
     "title" : "12.C04C SuTroLaiCuaRuiRo DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -143,7 +143,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/14-13-c05a-antoannhunhungngoinha-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1963,
+    "duration" : 1964,
     "title" : "13.C05A AnToanNhuNhungNgoiNha DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -151,7 +151,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/15-14-c05b-antoannhunhungngoinha-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2046,
+    "duration" : 2047,
     "title" : "14.C05B AnToanNhuNhungNgoiNha DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -175,7 +175,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/18-17-c06b-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1904,
+    "duration" : 1905,
     "title" : "17.C06B TuDeQuocDenTrungHoaMy DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -191,7 +191,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/20-19-c06d-tudequocdentrunghoamy-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 996,
+    "duration" : 997,
     "title" : "19.C06D TuDeQuocDenTrungHoaMy DongTienLenNgoi",
     "properties" : null,
     "alternate" : null
@@ -199,7 +199,7 @@
     "href" : "https://archive.org/download/cf8b43398f0140c3df687d56fbff65bc/21-20-loiket-het-dongtienlenngoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1925,
+    "duration" : 1926,
     "title" : "20.LoiKet Het DongTienLenNgoi",
     "properties" : null,
     "alternate" : null

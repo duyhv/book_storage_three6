@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-06",
-    "duration" : 19957,
+    "published" : "2024-09-20",
+    "duration" : 19960,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/54b5a508cd256ce93b340eb67122d3a9/1-sa-huynh-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
+    "duration" : 7201,
     "title" : "sa-huynh-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/54b5a508cd256ce93b340eb67122d3a9/2-sa-huynh-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
+    "duration" : 7201,
     "title" : "sa-huynh-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/54b5a508cd256ce93b340eb67122d3a9/3-sa-huynh-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5557,
+    "duration" : 5558,
     "title" : "sa-huynh-3",
     "properties" : null,
     "alternate" : null

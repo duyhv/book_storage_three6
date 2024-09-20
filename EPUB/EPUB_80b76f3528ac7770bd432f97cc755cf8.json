@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-02",
-    "duration" : 10168,
+    "published" : "2024-09-20",
+    "duration" : 10171,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/80b76f3528ac7770bd432f97cc755cf8/bi-mat-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3462,
+    "duration" : 3463,
     "title" : "bi-mat-1",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/80b76f3528ac7770bd432f97cc755cf8/bi-mat-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3135,
+    "duration" : 3136,
     "title" : "bi-mat-2",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/80b76f3528ac7770bd432f97cc755cf8/bi-mat-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3571,
+    "duration" : 3572,
     "title" : "bi-mat-3",
     "properties" : null,
     "alternate" : null

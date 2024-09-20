@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-04",
-    "duration" : 24198,
+    "published" : "2024-09-20",
+    "duration" : 24204,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/9a9352f6a91de4cc1f4199d4bc9f3106/1-cau-be-hoc-viec-va-thay-tru-ta-phan-6-tap-1-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4880,
+    "duration" : 4881,
     "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 1 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/9a9352f6a91de4cc1f4199d4bc9f3106/2-cau-be-hoc-viec-va-thay-tru-ta-phan-6-tap-2-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3938,
+    "duration" : 3939,
     "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 2 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/9a9352f6a91de4cc1f4199d4bc9f3106/3-cau-be-hoc-viec-va-thay-tru-ta-phan-6-tap-3-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5251,
+    "duration" : 5252,
     "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 3 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/9a9352f6a91de4cc1f4199d4bc9f3106/4-cau-be-hoc-viec-va-thay-tru-ta-phan-6-tap-4-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3556,
+    "duration" : 3557,
     "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 4 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/9a9352f6a91de4cc1f4199d4bc9f3106/5-cau-be-hoc-viec-va-thay-tru-ta-phan-6-tap-5-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3830,
+    "duration" : 3831,
     "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 5 (192kbit AAC)",
     "properties" : null,
     "alternate" : null
@@ -79,7 +79,7 @@
     "href" : "https://archive.org/download/9a9352f6a91de4cc1f4199d4bc9f3106/6-cau-be-hoc-viec-va-thay-tru-ta-phan-6-tap-6-192kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2743,
+    "duration" : 2744,
     "title" : "cậu bé học việc và thầy trừ tà phần 6 tập 6 (192kbit AAC)",
     "properties" : null,
     "alternate" : null

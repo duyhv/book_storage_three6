@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-05",
-    "duration" : 17917,
+    "published" : "2024-09-20",
+    "duration" : 17919,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/2-huyen-thoai-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3586,
+    "duration" : 3587,
     "title" : "huyen-thoai-2",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/74765f8790aa183766c4279a245f1d4e/5-huyen-thoai-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3604,
+    "duration" : 3605,
     "title" : "huyen-thoai-5",
     "properties" : null,
     "alternate" : null

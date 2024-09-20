@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-11",
-    "duration" : 13416,
+    "published" : "2024-09-20",
+    "duration" : 13420,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/2-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-02-ngon-ngang-pho-xa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2184,
+    "duration" : 2185,
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [02]. Ngổn ngang phố xá",
     "properties" : null,
     "alternate" : null
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/3-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-03-buon-gi-dau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1952,
+    "duration" : 1953,
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [03]. Buồn gì đâu",
     "properties" : null,
     "alternate" : null
@@ -63,7 +63,7 @@
     "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/4-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-04-am-ap-trong-mua.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2039,
+    "duration" : 2040,
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [04]. Ấm áp trong mưa",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/16bf25ceb6c78067ac689bc0d7605e25/5-nguyen-nhat-anh-nguoi-quang-di-an-mi-quang-05-nghe-cai-luong-ben-song-tien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2972,
+    "duration" : 2973,
     "title" : "Nguyễn Nhật Ánh   Người Quảng Đi Ăn Mì Quảng [05]. Nghe cải lương bên sông Tiền",
     "properties" : null,
     "alternate" : null

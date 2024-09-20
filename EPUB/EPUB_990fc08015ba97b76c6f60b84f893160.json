@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-02",
-    "duration" : 8975,
+    "published" : "2024-09-20",
+    "duration" : 8977,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -39,7 +39,7 @@
     "href" : "https://archive.org/download/990fc08015ba97b76c6f60b84f893160/thoi-tho-au-cua-cac-tong-thong-my-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3184,
+    "duration" : 3185,
     "title" : "THOI THO AU CUA CAC TONG THONG MY 01",
     "properties" : null,
     "alternate" : null
@@ -47,7 +47,7 @@
     "href" : "https://archive.org/download/990fc08015ba97b76c6f60b84f893160/thoi-tho-au-cua-cac-tong-thong-my-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2552,
+    "duration" : 2553,
     "title" : "THOI THO AU CUA CAC TONG THONG MY 02",
     "properties" : null,
     "alternate" : null
