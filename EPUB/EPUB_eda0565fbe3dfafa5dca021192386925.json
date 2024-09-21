@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-04-09",
-    "duration" : 12520,
+    "published" : "2024-09-21",
+    "duration" : 12522,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -111,7 +111,7 @@
     "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/10-vu-dieu-tom-hum.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 954,
+    "duration" : 955,
     "title" : "10. Vũ điệu tôm hùm",
     "properties" : null,
     "alternate" : null
@@ -119,7 +119,7 @@
     "href" : "https://archive.org/download/eda0565fbe3dfafa5dca021192386925/11-ai-lay-cap-banh-nhan-trai-cay.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 898,
+    "duration" : 899,
     "title" : "11. Ai lấy cắp bánh nhân trái cây",
     "properties" : null,
     "alternate" : null

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-05-08",
-    "duration" : 24520,
+    "published" : "2024-09-21",
+    "duration" : 24525,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -55,7 +55,7 @@
     "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/3-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1725,
+    "duration" : 1726,
     "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
@@ -71,7 +71,7 @@
     "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/5-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2206,
+    "duration" : 2207,
     "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
@@ -87,7 +87,7 @@
     "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/7-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1728,
+    "duration" : 1729,
     "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
@@ -127,7 +127,7 @@
     "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/12-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1634,
+    "duration" : 1635,
     "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
@@ -135,7 +135,7 @@
     "href" : "https://archive.org/download/3b07c4725209bcf21f46382b907a1d11/13-chuyen-nha-que.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2033,
+    "duration" : 2034,
     "title" : "Chuyện nhà quê",
     "properties" : null,
     "alternate" : null
