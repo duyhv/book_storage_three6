@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 22901,
+    "published" : "2024-10-22",
+    "duration" : 22896,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,15 +36,15 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/1-chuong-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_1-chuong-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2402,
+    "duration" : 2401,
     "title" : "Chương 1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/2-chuong-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_2-chuong-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2101,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/3-chuong-3.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_3-chuong-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1501,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/4-chuong-4.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_4-chuong-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1901,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/5-chuong-5.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_5-chuong-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2280,
@@ -76,39 +76,39 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/6-chuong-6.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_6-chuong-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1250,
+    "duration" : 1249,
     "title" : "Chương 6",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/7-chuong-7.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_7-chuong-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1801,
+    "duration" : 1800,
     "title" : "Chương 7",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/8-chuong-8.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_8-chuong-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1801,
+    "duration" : 1800,
     "title" : "Chương 8",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/9-chuong-9.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_9-chuong-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1801,
+    "duration" : 1800,
     "title" : "Chương 9",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/10-chuong-10.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_10-chuong-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2161,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/11-chuong-11.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_11-chuong-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2101,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/12-chuong-12-end-.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_12-chuong-12-end.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1801,
@@ -133,51 +133,51 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/1-chuong-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_1-chuong-1.mp3",
     "title" : "Chương 1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/2-chuong-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_2-chuong-2.mp3",
     "title" : "Chương 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/3-chuong-3.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_3-chuong-3.mp3",
     "title" : "Chương 3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/4-chuong-4.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_4-chuong-4.mp3",
     "title" : "Chương 4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/5-chuong-5.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_5-chuong-5.mp3",
     "title" : "Chương 5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/6-chuong-6.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_6-chuong-6.mp3",
     "title" : "Chương 6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/7-chuong-7.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_7-chuong-7.mp3",
     "title" : "Chương 7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/8-chuong-8.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_8-chuong-8.mp3",
     "title" : "Chương 8",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/9-chuong-9.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_9-chuong-9.mp3",
     "title" : "Chương 9",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/10-chuong-10.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_10-chuong-10.mp3",
     "title" : "Chương 10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/11-chuong-11.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_11-chuong-11.mp3",
     "title" : "Chương 11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/3729eb4d799d2ff7fb61f1383d2ef6e7/12-chuong-12-end-.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/3729eb4d799d2ff7fb61f1383d2ef6e7/cloudflare_12-chuong-12-end.mp3",
     "title" : "Chương 12 (End)",
     "children" : [ ]
   } ],
