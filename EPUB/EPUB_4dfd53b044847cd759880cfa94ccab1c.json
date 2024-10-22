@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 33707,
+    "published" : "2024-10-22",
+    "duration" : 33706,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,15 +36,15 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/4dfd53b044847cd759880cfa94ccab1c/1-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/4dfd53b044847cd759880cfa94ccab1c/cloudflare_1-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 20223,
+    "duration" : 20222,
     "title" : "1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/4dfd53b044847cd759880cfa94ccab1c/2-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/4dfd53b044847cd759880cfa94ccab1c/cloudflare_2-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 13484,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/4dfd53b044847cd759880cfa94ccab1c/1-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/4dfd53b044847cd759880cfa94ccab1c/cloudflare_1-1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/4dfd53b044847cd759880cfa94ccab1c/2-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/4dfd53b044847cd759880cfa94ccab1c/cloudflare_2-2.mp3",
     "title" : "2",
     "children" : [ ]
   } ],
