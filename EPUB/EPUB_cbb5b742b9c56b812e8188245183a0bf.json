@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 38009,
+    "published" : "2024-10-25",
+    "duration" : 38008,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,16 +36,16 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cbb5b742b9c56b812e8188245183a0bf/-sach-noi-full-tren-dinh-pho-wall-peter-lynch-cong-thuc-lam-giau-dinh-cao-nhat-.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/cbb5b742b9c56b812e8188245183a0bf/cloudflare_1-sach-noi-full-tren-dinh-pho-wall-peter-lynch-cong-thuc-lam-giau-dinh-cao-nhat.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 38009,
+    "duration" : 38008,
     "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất...",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cbb5b742b9c56b812e8188245183a0bf/-sach-noi-full-tren-dinh-pho-wall-peter-lynch-cong-thuc-lam-giau-dinh-cao-nhat-.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/cbb5b742b9c56b812e8188245183a0bf/cloudflare_1-sach-noi-full-tren-dinh-pho-wall-peter-lynch-cong-thuc-lam-giau-dinh-cao-nhat.mp3",
     "title" : "(Sách nói Full) Trên Đỉnh Phố Wall - Peter Lynch - Công thức làm giàu đỉnh cao nhất...",
     "children" : [ ]
   } ],
