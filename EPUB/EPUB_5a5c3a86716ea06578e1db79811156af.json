@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 15606,
+    "published" : "2024-10-24",
+    "duration" : 15602,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,52 +36,52 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/1-be-khoa-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/5a5c3a86716ea06578e1db79811156af/cloudflare_1-be-khoa-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4228,
+    "duration" : 4227,
     "title" : "be-khoa-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/2-be-khoa-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/5a5c3a86716ea06578e1db79811156af/cloudflare_2-be-khoa-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4261,
+    "duration" : 4260,
     "title" : "be-khoa-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/3-be-khoa-3.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/5a5c3a86716ea06578e1db79811156af/cloudflare_3-be-khoa-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4261,
+    "duration" : 4260,
     "title" : "be-khoa-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/4-be-khoa-4.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/5a5c3a86716ea06578e1db79811156af/cloudflare_4-be-khoa-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2856,
+    "duration" : 2855,
     "title" : "be-khoa-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/1-be-khoa-1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/5a5c3a86716ea06578e1db79811156af/cloudflare_1-be-khoa-1.mp3",
     "title" : "be-khoa-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/2-be-khoa-2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/5a5c3a86716ea06578e1db79811156af/cloudflare_2-be-khoa-2.mp3",
     "title" : "be-khoa-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/3-be-khoa-3.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/5a5c3a86716ea06578e1db79811156af/cloudflare_3-be-khoa-3.mp3",
     "title" : "be-khoa-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/5a5c3a86716ea06578e1db79811156af/4-be-khoa-4.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/5a5c3a86716ea06578e1db79811156af/cloudflare_4-be-khoa-4.mp3",
     "title" : "be-khoa-4",
     "children" : [ ]
   } ],
